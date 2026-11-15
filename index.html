@@ -162,22 +162,21 @@
 
     .theme-toggle {
       appearance: none;
+      width: 42px;
+      height: 42px;
+      padding: 0;
+      display: grid;
+      place-items: center;
+      flex-shrink: 0;
       border: 1px solid var(--border);
-      background: transparent;
-      color: var(--text-muted);
-      padding: 0.28rem 0.65rem;
-      border-radius: 999px;
-      font: inherit;
-      font-size: 0.75rem;
-      font-weight: 600;
+      border-radius: 12px;
+      background: var(--bg-card);
+      color: var(--text);
       cursor: pointer;
-      transition: border-color 0.15s, color 0.15s;
     }
 
-    .theme-toggle:hover {
-      border-color: var(--accent);
-      color: var(--accent);
-    }
+    .theme-toggle svg { display: block; }
+    .theme-toggle:active { transform: scale(0.96); }
 
     .theme-toggle:focus-visible {
       outline: 2px solid var(--accent);
@@ -598,7 +597,7 @@
       </div>
       <div class="header-actions">
         <span class="header-quiet" id="metaQuiet" aria-live="polite">Loading…</span>
-        <button class="theme-toggle" id="themeToggle" type="button" aria-label="Switch to light theme">Light</button>
+        <button class="theme-toggle" id="themeToggle" type="button" aria-label="Switch to light mode"></button>
       </div>
     </div>
   </header>
@@ -659,6 +658,9 @@
         themeToggle: document.getElementById("themeToggle"),
       };
 
+      const ICON_SUN = '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="12" cy="12" r="4.2" fill="currentColor"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6"/></g></svg>';
+      const ICON_MOON = '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M20.5 14.6A8.5 8.5 0 0 1 9.4 3.5a8.5 8.5 0 1 0 11.1 11.1z" fill="currentColor"/></svg>';
+
       function setTheme(theme) {
         const nextTheme = theme === "light" ? "light" : "dark";
         document.documentElement.dataset.theme = nextTheme;
@@ -666,10 +668,10 @@
           localStorage.setItem("deals-theme", nextTheme);
         } catch (_) {}
         const isLight = nextTheme === "light";
-        el.themeToggle.textContent = isLight ? "Dark" : "Light";
+        el.themeToggle.innerHTML = isLight ? ICON_MOON : ICON_SUN;
         el.themeToggle.setAttribute(
           "aria-label",
-          isLight ? "Switch to dark theme" : "Switch to light theme"
+          isLight ? "Switch to dark mode" : "Switch to light mode"
         );
       }
 
