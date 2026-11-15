@@ -114,6 +114,15 @@
       height: var(--header-h);
     }
 
+    .brand-icon {
+      width: 24px;
+      height: 24px;
+      border-radius: 7px;
+      display: block;
+      flex-shrink: 0;
+      align-self: center;
+    }
+
     .brand {
       display: flex;
       align-items: baseline;
@@ -592,6 +601,7 @@
   <header class="site-header">
     <div class="wrap header-inner">
       <div class="brand">
+        <img class="brand-icon" src="icon.svg?v=2" width="24" height="24" alt="">
         <span class="brand-wordmark">Sweden Deals</span>
         <span class="brand-meta">by Deal Hunter</span>
       </div>
