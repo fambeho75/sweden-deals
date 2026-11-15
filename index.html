@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<html lang="sv" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="dark light" />
+  <script>
+    (function () {
+      try {
+        var theme = localStorage.getItem("deals-theme");
+        if (theme === "light" || theme === "dark") {
+          document.documentElement.dataset.theme = theme;
+        }
+      } catch (_) {}
+    })();
+  </script>
+  <title>Sweden Deals — Deal Hunter</title>
+  <link rel="icon" type="image/svg+xml" href="icon.svg?v=1" />
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png?v=1" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png?v=1" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&family=Syne:wght@600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0a0a0a;
+      --bg-elev: #121212;
+      --bg-card: #141414;
+      --bg-card-hover: #1a1a1a;
+      --bg-frame: #161616;
+      --border: #2a2a2a;
+      --border-soft: #222;
+      --border-strong: #3f3f3f;
+      --text: #f5f5f5;
+      --text-muted: #a3a3a3;
+      --text-dim: #737373;
+      --accent: #f97316;
+      --accent-dim: rgba(249, 115, 22, 0.14);
+      --accent-border: rgba(249, 115, 22, 0.55);
+      --chip-bg: #1a1a1a;
+      --chip-active-bg: #f97316;
+      --chip-active-text: #0a0a0a;
+      --danger: #f87171;
+      --danger-dim: rgba(248, 113, 113, 0.1);
+      --danger-text: #fda4a4;
+      --radius: 10px;
+      --radius-sm: 8px;
+      --font: "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+      --display: "Syne", "Instrument Sans", system-ui, sans-serif;
+      --mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+      --header-h: 56px;
+      --gutter: 12px;
+      --gap: 16px;
+    }
+
+    html[data-theme="light"] {
+      --bg: #f4f4f5;
+      --bg-elev: #ffffff;
+      --bg-card: #ffffff;
+      --bg-card-hover: #fafafa;
+      --bg-frame: #f0f0f1;
+      --border: #d4d4d8;
+      --border-soft: #e4e4e7;
+      --border-strong: #a1a1aa;
+      --text: #171717;
+      --text-muted: #52525b;
+      --text-dim: #71717a;
+      --accent: #f97316;
+      --accent-dim: rgba(249, 115, 22, 0.1);
+      --accent-border: rgba(249, 115, 22, 0.65);
+      --chip-bg: #e8e8ea;
+      --chip-active-bg: #171717;
+      --chip-active-text: #fafafa;
+      --danger: #b91c1c;
+      --danger-dim: rgba(185, 28, 28, 0.08);
+      --danger-text: #b91c1c;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--font);
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: inherit; }
+
+    .wrap {
+      width: min(1120px, calc(100% - (var(--gutter) * 2)));
+      margin-inline: auto;
+    }
+
+    /* —— Slim sticky header (~56px) —— */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 40;
+      height: var(--header-h);
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      height: var(--header-h);
+    }
+
+    .brand {
+      display: flex;
+      align-items: baseline;
+      gap: 0.55rem;
+      min-width: 0;
+    }
+
+    .brand-wordmark {
+      font-family: var(--display);
+      font-size: 1.05rem;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: 1;
+      white-space: nowrap;
+    }
+
+    .brand-meta {
+      color: var(--text-dim);
+      font-size: 0.75rem;
+      font-weight: 500;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      flex-shrink: 0;
+    }
+
+    .header-quiet {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      font-weight: 500;
+      white-space: nowrap;
+    }
+
+    .header-quiet strong {
+      color: var(--text-muted);
+      font-family: var(--mono);
+      font-weight: 600;
+      font-size: 0.72rem;
+    }
+
+    .theme-toggle {
+      appearance: none;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text-muted);
+      padding: 0.28rem 0.65rem;
+      border-radius: 999px;
+      font: inherit;
+      font-size: 0.75rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: border-color 0.15s, color 0.15s;
+    }
+
+    .theme-toggle:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .theme-toggle:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+
+    /* —— Big-type hero —— */
+    .hero {
+      padding: 2rem 0 1.25rem;
+    }
+
+    .hero-kicker {
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      margin-bottom: 0.65rem;
+    }
+
+    .hero h1 {
+      font-family: var(--display);
+      font-size: clamp(1.75rem, 4.5vw, 2.35rem);
+      font-weight: 800;
+      letter-spacing: -0.045em;
+      line-height: 1.05;
+      margin-bottom: 0.65rem;
+    }
+
+    .hero-sub {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      max-width: 36rem;
+      margin-bottom: 0.85rem;
+    }
+
+    .hero-count {
+      font-size: 0.8rem;
+      color: var(--text-dim);
+    }
+
+    .hero-count strong {
+      color: var(--text-muted);
+      font-family: var(--mono);
+      font-weight: 600;
+    }
+
+    /* —— Filter chips (gallery row, horiz scroll) —— */
+    .toolbar {
+      padding: 0.25rem 0 0.5rem;
+    }
+
+    .filter-row {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      margin-bottom: 0.55rem;
+      min-width: 0;
+    }
+
+    .filter-label {
+      flex-shrink: 0;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-dim);
+      font-weight: 600;
+      margin-right: 0.15rem;
+    }
+
+    .chip-scroll {
+      display: flex;
+      gap: 0.4rem;
+      overflow-x: auto;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+      padding-bottom: 2px;
+      min-width: 0;
+      flex: 1;
+    }
+
+    .chip-scroll::-webkit-scrollbar { display: none; }
+
+    .chip {
+      appearance: none;
+      flex-shrink: 0;
+      border: 1px solid var(--border);
+      background: var(--chip-bg);
+      color: var(--text-muted);
+      padding: 0.38rem 0.8rem;
+      border-radius: 999px;
+      font: inherit;
+      font-size: 0.8125rem;
+      font-weight: 650;
+      cursor: pointer;
+      transition: background 0.12s, border-color 0.12s, color 0.12s;
+      white-space: nowrap;
+    }
+
+    .chip:hover {
+      border-color: var(--border-strong);
+      color: var(--text);
+    }
+
+    .chip:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+
+    .chip[aria-pressed="true"] {
+      background: var(--chip-active-bg);
+      border-color: var(--chip-active-bg);
+      color: var(--chip-active-text);
+    }
+
+    html[data-theme="dark"] .chip[aria-pressed="true"] {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #0a0a0a;
+    }
+
+    .results-line {
+      margin-top: 0.85rem;
+      color: var(--text-dim);
+      font-size: 0.8rem;
+    }
+
+    .results-line strong { color: var(--text-muted); }
+
+    .load-status {
+      font-size: 0.72rem;
+      color: var(--text-dim);
+      margin-top: 0.3rem;
+    }
+
+    /* —— Gallery grid —— */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: var(--gap);
+      padding: 1rem 0 2.75rem;
+    }
+
+    /* —— Card: preview frame + caption —— */
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      transition: transform 0.15s ease, border-color 0.15s;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
+      border-color: var(--accent-border);
+    }
+
+    a.card {
+      text-decoration: none;
+      color: inherit;
+      cursor: pointer;
+    }
+
+    a.card:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 3px;
+    }
+
+    .card-frame {
+      position: relative;
+      height: 200px;
+      background: var(--bg-frame);
+      border-bottom: 1px solid var(--border);
+      padding: 1rem 1.1rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      overflow: hidden;
+    }
+
+    .card-frame.has-image {
+      padding: 0;
+    }
+
+    .card-image {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      background: var(--bg-frame);
+      z-index: 0;
+    }
+
+    .card-frame.has-image .frame-top {
+      position: relative;
+      z-index: 1;
+      padding: 0.85rem 1.1rem 0;
+    }
+
+    .card-frame.has-image .shop-initials,
+    .card-frame.has-image .frame-cat {
+      background: var(--bg-card);
+    }
+
+    .card-frame.has-image .frame-cat {
+      padding: 0.2rem 0.45rem;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+    }
+
+    .card-frame.has-image .discount-badge {
+      z-index: 2;
+    }
+
+    .card-frame.has-image .frame-price {
+      position: relative;
+      z-index: 1;
+      margin: 0;
+      padding: 0.7rem 1.1rem 0.85rem;
+      background: var(--bg-card);
+      border-top: 1px solid var(--border);
+    }
+
+    .frame-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+
+    .shop-initials {
+      font-family: var(--mono);
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      border: 1px solid var(--border);
+      padding: 0.2rem 0.45rem;
+      border-radius: 6px;
+      background: transparent;
+    }
+
+    .frame-cat {
+      font-size: 0.68rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-dim);
+    }
+
+    .discount-badge {
+      position: absolute;
+      top: 0.85rem;
+      right: 0.85rem;
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 0.22rem 0.5rem;
+      border-radius: 6px;
+      background: var(--accent);
+      color: #0a0a0a;
+      letter-spacing: -0.01em;
+    }
+
+    .frame-price {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+      margin-top: auto;
+      padding-bottom: 0.15rem;
+    }
+
+    .price {
+      font-family: var(--mono);
+      font-size: clamp(1.65rem, 3.5vw, 2rem);
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: -0.04em;
+      line-height: 1;
+    }
+
+    .was {
+      font-family: var(--mono);
+      font-size: 0.85rem;
+      color: var(--text-dim);
+      text-decoration: line-through;
+      text-decoration-thickness: 1.5px;
+    }
+
+    /* Caption strip */
+    .card-caption {
+      padding: 0.9rem 1.05rem 1.05rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+      flex: 1;
+    }
+
+    .card-caption h2 {
+      font-size: 0.95rem;
+      font-weight: 650;
+      letter-spacing: -0.02em;
+      line-height: 1.3;
+      color: var(--text);
+    }
+
+    .caption-meta {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      font-weight: 500;
+    }
+
+    .caption-meta .sep {
+      margin: 0 0.3rem;
+      opacity: 0.55;
+    }
+
+    .note {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.4;
+    }
+
+    .caveat {
+      font-size: 0.75rem;
+      color: var(--danger-text);
+      background: var(--danger-dim);
+      border: 1px solid rgba(248, 113, 113, 0.2);
+      border-radius: var(--radius-sm);
+      padding: 0.4rem 0.55rem;
+      line-height: 1.35;
+    }
+
+    .caveat::before { content: "⚠ "; }
+
+    .open-link {
+      margin-top: auto;
+      padding-top: 0.55rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      font-size: 0.82rem;
+      font-weight: 650;
+      color: var(--accent);
+      text-decoration: none;
+      border: none;
+      background: none;
+      width: fit-content;
+      transition: opacity 0.12s;
+    }
+
+    .open-link:hover { opacity: 0.8; text-decoration: underline; text-underline-offset: 3px; }
+
+    .open-link:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 3px;
+      border-radius: 2px;
+    }
+
+    /* Empty */
+    .empty {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 3.25rem 1.5rem;
+      border: 1px dashed var(--border);
+      border-radius: var(--radius);
+      color: var(--text-muted);
+    }
+
+    .empty h3 {
+      color: var(--text);
+      font-size: 1.05rem;
+      margin-bottom: 0.35rem;
+      font-family: var(--display);
+      letter-spacing: -0.02em;
+    }
+
+    /* —— Simple non-sticky footer —— */
+    .site-footer {
+      border-top: 1px solid var(--border);
+      padding: 1.25rem 0 1.75rem;
+      margin-top: auto;
+    }
+
+    .site-footer p {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      text-align: center;
+      line-height: 1.5;
+    }
+
+    @media (min-width: 960px) {
+      .grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
+    @media (max-width: 640px) {
+      :root { --gutter: 12px; --gap: 14px; }
+      .brand-meta { display: none; }
+      .header-quiet { display: none; }
+      .hero { padding: 1.5rem 0 1rem; }
+      .card-frame { height: 180px; }
+      .grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <div class="brand">
+        <span class="brand-wordmark">Sweden Deals</span>
+        <span class="brand-meta">by Deal Hunter</span>
+      </div>
+      <div class="header-actions">
+        <span class="header-quiet" id="metaQuiet" aria-live="polite">Loading…</span>
+        <button class="theme-toggle" id="themeToggle" type="button" aria-label="Switch to light theme">Light</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero" aria-labelledby="heroTitle">
+      <p class="hero-kicker">Deal Hunter picks</p>
+      <h1 id="heroTitle">Today’s deals</h1>
+      <p class="hero-sub">Curated Swedish shop offers — NetOnNet, Elgiganten, Inet and more. Prices change fast; always re-check before you buy.</p>
+      <p class="hero-count" id="heroCount"></p>
+    </section>
+
+    <section class="toolbar" aria-label="Filters">
+      <div class="filter-row" id="categoryFilters">
+        <span class="filter-label">Category</span>
+        <div class="chip-scroll" data-chip-host="category"></div>
+      </div>
+      <div class="filter-row" id="shopFilters">
+        <span class="filter-label">Shop</span>
+        <div class="chip-scroll" data-chip-host="shop"></div>
+      </div>
+      <p class="results-line" id="resultsLine"></p>
+      <p class="load-status" id="loadStatus" hidden></p>
+    </section>
+
+    <section class="grid" id="dealGrid" aria-live="polite"></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Prices change without notice · Links go to retailer sites · Not financial advice</p>
+    </div>
+  </footer>
+
+    <script>
+    (function () {
+      "use strict";
+
+      const CATEGORIES = [
+        { id: "all", label: "All" },
+        { id: "household", label: "Household" },
+        { id: "electronics", label: "Electronics" },
+        { id: "computers", label: "Computers" },
+      ];
+
+      let data = null;
+      let category = "all";
+      let shop = "all";
+
+      const el = {
+        meta: document.getElementById("metaQuiet"),
+        heroCount: document.getElementById("heroCount"),
+        catFilters: document.querySelector('#categoryFilters [data-chip-host="category"]'),
+        shopFilters: document.querySelector('#shopFilters [data-chip-host="shop"]'),
+        grid: document.getElementById("dealGrid"),
+        results: document.getElementById("resultsLine"),
+        loadStatus: document.getElementById("loadStatus"),
+        themeToggle: document.getElementById("themeToggle"),
+      };
+
+      function setTheme(theme) {
+        const nextTheme = theme === "light" ? "light" : "dark";
+        document.documentElement.dataset.theme = nextTheme;
+        try {
+          localStorage.setItem("deals-theme", nextTheme);
+        } catch (_) {}
+        const isLight = nextTheme === "light";
+        el.themeToggle.textContent = isLight ? "Dark" : "Light";
+        el.themeToggle.setAttribute(
+          "aria-label",
+          isLight ? "Switch to dark theme" : "Switch to light theme"
+        );
+      }
+
+      setTheme(document.documentElement.dataset.theme);
+      el.themeToggle.addEventListener("click", () => {
+        setTheme(document.documentElement.dataset.theme === "light" ? "dark" : "light");
+      });
+
+      function formatSek(n) {
+        if (n == null || Number.isNaN(Number(n))) return "—";
+        const s = Math.round(Number(n)).toString();
+        const withSpaces = s.replace(/\B(?=(\d{3})+(?!\d))/g, "\u202F");
+        return withSpaces + "\u00A0SEK";
+      }
+
+      function discountPct(price, was) {
+        if (!was || was <= 0 || price == null) return null;
+        const pct = Math.round(((was - price) / was) * 100);
+        return pct > 0 ? pct : null;
+      }
+
+      function formatDate(iso) {
+        try {
+          const d = new Date(iso);
+          return new Intl.DateTimeFormat("sv-SE", {
+            timeZone: "Europe/Stockholm",
+            weekday: "short",
+            year: "numeric",
+            month: "short",
+            day: "numeric",
+          }).format(d);
+        } catch (_) {
+          return iso || "";
+        }
+      }
+
+      function shopInitials(name) {
+        if (!name) return "?";
+        const parts = String(name).trim().split(/\s+/);
+        if (parts.length === 1) return parts[0].slice(0, 2).toUpperCase();
+        return (parts[0][0] + parts[1][0]).toUpperCase();
+      }
+
+      function uniqueShops(deals) {
+        return [...new Set(deals.map((d) => d.shop).filter(Boolean))].sort((a, b) =>
+          a.localeCompare(b, "sv")
+        );
+      }
+
+      function filteredDeals() {
+        return (data.deals || []).filter((d) => {
+          const catOk = category === "all" || d.category === category;
+          const shopOk = shop === "all" || d.shop === shop;
+          return catOk && shopOk;
+        });
+      }
+
+      function renderMeta() {
+        const dateLabel = formatDate(data.generated_at);
+        const count = data.count != null ? data.count : (data.deals || []).length;
+        el.meta.innerHTML =
+          "<strong>" + escapeHtml(dateLabel) + "</strong> · " + count + " deals";
+        el.heroCount.innerHTML =
+          "<strong>" + count + "</strong> deals curated by Deal Hunter";
+      }
+
+      function makeChip(label, pressed, onClick) {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "chip";
+        btn.textContent = label;
+        btn.setAttribute("aria-pressed", pressed ? "true" : "false");
+        btn.addEventListener("click", onClick);
+        return btn;
+      }
+
+      function renderFilters() {
+        el.catFilters.innerHTML = "";
+        CATEGORIES.forEach((c) => {
+          el.catFilters.appendChild(
+            makeChip(c.label, category === c.id, () => {
+              category = c.id;
+              renderFilters();
+              renderGrid();
+            })
+          );
+        });
+
+        el.shopFilters.innerHTML = "";
+        const shops = uniqueShops(data.deals || []);
+        el.shopFilters.appendChild(
+          makeChip("All shops", shop === "all", () => {
+            shop = "all";
+            renderFilters();
+            renderGrid();
+          })
+        );
+        shops.forEach((s) => {
+          el.shopFilters.appendChild(
+            makeChip(s, shop === s, () => {
+              shop = s;
+              renderFilters();
+              renderGrid();
+            })
+          );
+        });
+      }
+
+      function escapeHtml(str) {
+        return String(str)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;");
+      }
+
+      function renderCard(deal) {
+        const pct = discountPct(deal.price_sek, deal.was_price_sek);
+        const discountLabel =
+          pct != null ? "−" + pct + "%" : deal.discount_note || "";
+        const rawImage = deal.image || deal.image_url || "";
+        const imageUrl = rawImage && rawImage.includes("/") ? rawImage : "";
+        const hasImage = Boolean(imageUrl);
+
+        const article = document.createElement("a");
+        article.className = "card";
+        article.href = deal.url || "#";
+        article.target = "_blank";
+        article.rel = "noopener noreferrer";
+        article.setAttribute("aria-label", (deal.name || "Deal") + " at " + (deal.shop || "shop"));
+        article.innerHTML =
+          '<div class="card-frame' +
+          (hasImage ? " has-image" : "") +
+          '">' +
+          (hasImage
+            ? '<img class="card-image" src="' +
+              escapeHtml(imageUrl) +
+              '" alt="" loading="lazy" decoding="async" onerror="var f=this.closest(\'.card-frame\');if(f){f.classList.remove(\'has-image\');}this.remove();" />'
+            : "") +
+          '<div class="frame-top">' +
+          '<span class="shop-initials" title="' +
+          escapeHtml(deal.shop || "") +
+          '">' +
+          escapeHtml(shopInitials(deal.shop)) +
+          "</span>" +
+          '<span class="frame-cat">' +
+          escapeHtml(deal.category || "") +
+          "</span>" +
+          "</div>" +
+          (discountLabel
+            ? '<span class="discount-badge">' + escapeHtml(discountLabel) + "</span>"
+            : "") +
+          '<div class="frame-price">' +
+          '<span class="price">' +
+          escapeHtml(formatSek(deal.price_sek)) +
+          "</span>" +
+          (deal.was_price_sek
+            ? '<span class="was">' + escapeHtml(formatSek(deal.was_price_sek)) + "</span>"
+            : "") +
+          "</div>" +
+          "</div>" +
+          '<div class="card-caption">' +
+          "<h2>" +
+          escapeHtml(deal.name || "Untitled deal") +
+          "</h2>" +
+          '<p class="caption-meta">' +
+          escapeHtml(deal.shop || "Shop") +
+          '<span class="sep">·</span>' +
+          escapeHtml(deal.category || "") +
+          "</p>" +
+          (deal.discount_note
+            ? '<p class="note">' + escapeHtml(deal.discount_note) + "</p>"
+            : "") +
+          (deal.caveat
+            ? '<p class="caveat">' + escapeHtml(deal.caveat) + "</p>"
+            : "") +
+          "</div>";
+        return article;
+      }
+
+      function renderGrid() {
+        const deals = filteredDeals();
+        el.grid.innerHTML = "";
+
+        const total = (data.deals || []).length;
+        el.results.textContent = "";
+        el.results.appendChild(document.createTextNode("Showing "));
+        const strong = document.createElement("strong");
+        strong.textContent = String(deals.length);
+        el.results.appendChild(strong);
+        el.results.appendChild(
+          document.createTextNode(" of " + total + " deals")
+        );
+
+        if (!deals.length) {
+          const empty = document.createElement("div");
+          empty.className = "empty";
+          empty.innerHTML =
+            "<h3>No deals match these filters</h3>" +
+            "<p>Try another category or shop, or reset to All.</p>";
+          el.grid.appendChild(empty);
+          return;
+        }
+
+        deals.forEach((d) => el.grid.appendChild(renderCard(d)));
+      }
+
+      function boot(payload) {
+        data = payload;
+        if (!data.deals) data.deals = [];
+        if (data.count == null) data.count = data.deals.length;
+        el.loadStatus.hidden = false;
+        const updated = formatDate(data.generated_at);
+        el.loadStatus.textContent = updated ? "Updated " + updated : "Updated";
+        renderMeta();
+        renderFilters();
+        renderGrid();
+      }
+
+      async function load() {
+        const url = "./deals.json";
+        try {
+          const res = await fetch(url, { cache: "no-store" });
+          if (!res.ok) throw new Error("HTTP " + res.status);
+          boot(await res.json());
+        } catch (err) {
+          el.meta.textContent = "Failed to load deals";
+          el.grid.innerHTML =
+            '<div class="empty"><h3>Could not load deals</h3><p>Could not read deals.json.</p></div>';
+          el.loadStatus.hidden = false;
+          el.loadStatus.textContent =
+            "Error: " + (err && err.message ? err.message : String(err));
+        }
+      }
+
+      load();
+    })();
+  </script>
+</body>
+</html>
