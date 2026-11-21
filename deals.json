@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:46:25+01:00",
+  "generated_at": "2026-11-21T12:50:13+01:00",
   "timezone": "Europe/Stockholm",
   "count": 141,
   "deals": [
@@ -10,20 +10,20 @@
       "was_price_sek": 99,
       "discount_note": "~71% off (29 vs 99 SEK)",
       "url": "https://www.power.se/koksapparater/stekning-och-kokning/airfryers-och-fritoser/tillbehor/kulz-bakplaatspapper-till-airfryers-50-ark-20x20-cm/p-3382162/",
-      "caveat": "POWER price (campaign 9/11-6/12); web stock 3552",
+      "caveat": "POWER price (campaign 9/11-6/12); web stock 3532",
       "category": "household",
       "image": null
     },
     {
-      "name": "Bosch BSU52WAC Series 5 skaftdammsugare",
+      "name": "Logitech G G305 Datormöss Högerhand Rf trådlös Optisk 12000 dpi",
       "shop": "POWER",
-      "price_sek": 1499,
-      "was_price_sek": 4799,
-      "discount_note": "~69% off (1499 vs 4799 SEK)",
-      "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/skaftdammsugare/bosch-bsu52wac-series-5-skaftdammsugare/p-4519257/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 22",
-      "category": "household",
-      "image": "images/1zbjHTjhIJlWa9m2d_QeoYfWNzLvhRnAx.jpg"
+      "price_sek": 249,
+      "was_price_sek": 769,
+      "discount_note": "~68% off (249 vs 769 SEK)",
+      "url": "https://www.power.se/gaming/pc-och-tillbehor/gaming-moss-och-tangentbord/gaming-mus/logitech-g-g305-datormoss-hogerhand-rf-traadlos-optisk-12000-dpi/p-1152169/",
+      "caveat": "POWER price (campaign 16/11-6/12); web stock 661",
+      "category": "computers",
+      "image": null
     },
     {
       "name": "Logitech G502 Hero gamingmus",
@@ -32,7 +32,7 @@
       "was_price_sek": 999,
       "discount_note": "~66% off (339 vs 999 SEK)",
       "url": "https://www.power.se/gaming/pc-och-tillbehor/gaming-moss-och-tangentbord/gaming-mus/logitech-g502-hero-gamingmus/p-1064429/",
-      "caveat": "POWER price (campaign 16/11-6/12); web stock 881",
+      "caveat": "POWER price (campaign 16/11-6/12); web stock 714",
       "category": "computers",
       "image": "images/pw-logitech-g502-hero-gamingmus.jpg"
     },
@@ -43,7 +43,7 @@
       "was_price_sek": 263,
       "discount_note": "~66% off (89 vs 263 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/horlurar-med-kabel/philips-tah2005bk00-stereohorlurar/p-1206897/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 4673",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 4189",
       "category": "electronics",
       "image": "images/1Y1tVUUaNKQ9RHEMN1sY4-JVhHsWTniIQ.jpg"
     },
@@ -54,7 +54,7 @@
       "was_price_sek": 499,
       "discount_note": "~64% off (179 vs 499 SEK)",
       "url": "https://www.power.se/tv-och-ljud/traadlosa-hogtalare/bluetooth-hogtalare/senz-pod-bluetooth-hogtalare-svart/p-2278440/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 1600",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 1499",
       "category": "electronics",
       "image": "images/1FHa4stbnuWfB5akIrMogkBR6QUBDrqI5.jpg"
     },
@@ -65,20 +65,9 @@
       "was_price_sek": 499,
       "discount_note": "~64% off (179 vs 499 SEK)",
       "url": "https://www.power.se/tv-och-ljud/traadlosa-hogtalare/bluetooth-hogtalare/senz-pod-bluetooth-hogtalare-blaa/p-2278441/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 706",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 640",
       "category": "electronics",
       "image": "images/1_2AkcEucrHBUx_yaVi6ji6FN6BLYYchi.jpg"
-    },
-    {
-      "name": "Logitech G G305 Datormöss Högerhand Rf trådlös Optisk 12000 dpi",
-      "shop": "POWER",
-      "price_sek": 279,
-      "was_price_sek": 769,
-      "discount_note": "~64% off (279 vs 769 SEK)",
-      "url": "https://www.power.se/gaming/pc-och-tillbehor/gaming-moss-och-tangentbord/gaming-mus/logitech-g-g305-datormoss-hogerhand-rf-traadlos-optisk-12000-dpi/p-1152169/",
-      "caveat": "POWER price (campaign 16/11-6/12); web stock 803",
-      "category": "computers",
-      "image": null
     },
     {
       "name": "Bosch BGB7X420 Ergomaxx dammsugare",
@@ -87,7 +76,7 @@
       "was_price_sek": 5399,
       "discount_note": "~63% off (1999 vs 5399 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/dammsugare/bosch-bgb7x420-ergomaxx-dammsugare/p-2645374/",
-      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 505",
+      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 490",
       "category": "household",
       "image": "images/1alezdVvYQSfiEz7w6oKyboyLdgO-Gj32.jpg"
     },
@@ -98,20 +87,9 @@
       "was_price_sek": 6499,
       "discount_note": "~62% off (2499 vs 6499 SEK)",
       "url": "https://www.power.se/personvaard/haarborttagning-och-trimning-for-man/rakapparater/braun-series-9-sport-s9150cc-rakapparat/p-4313164/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 772",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 697",
       "category": "household",
       "image": "images/1BXe5L45N02kFzfwdnI0XLa75QRmFtM8k.jpg"
-    },
-    {
-      "name": "Philips i9000 Prestige XP9208/30 rakapparat",
-      "shop": "POWER",
-      "price_sek": 1999,
-      "was_price_sek": 4949,
-      "discount_note": "~60% off (1999 vs 4949 SEK)",
-      "url": "https://www.power.se/personvaard/haarborttagning-och-trimning-for-man/rakapparater/philips-i9000-prestige-xp920830-rakapparat/p-3985601/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 31",
-      "category": "household",
-      "image": "images/pw-philips-i9000-prestige-xp9208-30-rakapparat.jpg"
     },
     {
       "name": "Hisense WF1I1341BWM tvättmaskin",
@@ -120,7 +98,7 @@
       "was_price_sek": 9999,
       "discount_note": "~60% off (3999 vs 9999 SEK)",
       "url": "https://www.power.se/vitvaror/tvatt-och-torkning/frontmatade-tvattmaskiner/hisense-wf1i1341bwm-tvattmaskin/p-4308318/",
-      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 226",
+      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 206",
       "category": "household",
       "image": "images/1acjBgm6rHCZByR_0TCGFrL3sRXqwp16Y.jpg"
     },
@@ -131,7 +109,7 @@
       "was_price_sek": 1990,
       "discount_note": "~60% off (790 vs 1990 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/traadlosa-horlurar/jbl-live-770-traadlosa-over-ear-brusreducerande-horlurar-svart/p-2590644/",
-      "caveat": "POWER price (campaign 16/11-13/12); web stock 2938",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 2710",
       "category": "electronics",
       "image": "images/pw-jbl-live-770-tradlosa-over-ear-brusreducerande-horlurar-svar.jpg"
     },
@@ -142,9 +120,20 @@
       "was_price_sek": 1990,
       "discount_note": "~60% off (790 vs 1990 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/traadlosa-horlurar/jbl-live-770-traadlosa-over-ear-brusreducerande-horlurar-vit/p-2590646/",
-      "caveat": "POWER price (campaign 16/11-13/12); web stock 2385",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 2310",
       "category": "electronics",
       "image": "images/pw-jbl-live-770-tradlosa-over-ear-brusreducerande-horlurar-vit.jpg"
+    },
+    {
+      "name": "LG MG7Z2593B inbyggd mikrovågsugn",
+      "shop": "POWER",
+      "price_sek": 3290,
+      "was_price_sek": 7999,
+      "discount_note": "~59% off (3290 vs 7999 SEK)",
+      "url": "https://www.power.se/vitvaror/mikrovaagsugnar-och-tillbehor/inbyggda-mikrovaagsugnar/lg-mg7z2593b-inbyggd-mikrovaagsugn/p-4249394/",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 121",
+      "category": "household",
+      "image": "images/pw-lg-mg7z2593b-inbyggd-mikrovagsugn.jpg"
     },
     {
       "name": "Siemens iQ300 HB572ABS4 inbyggnadsugn",
@@ -153,7 +142,7 @@
       "was_price_sek": 11999,
       "discount_note": "~58% off (4999 vs 11999 SEK)",
       "url": "https://www.power.se/vitvaror/matlagning/inbyggnadsugnar/siemens-iq300-hb572abs4-inbyggnadsugn/p-4143229/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 233",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 520",
       "category": "household",
       "image": "images/1Q3ZYSjgO30IRtIGlhvjqNuHDcpxh1Pfz.jpg"
     },
@@ -164,7 +153,7 @@
       "was_price_sek": 3099,
       "discount_note": "~58% off (1299 vs 3099 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/dammsugare/bosch-serie-6-bgl6ba3-dammsugare-svart/p-1930442/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 833",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 784",
       "category": "household",
       "image": "images/1RRgCss__Lux2g71ky_mdAZmj_6XqvcYp.jpg"
     },
@@ -175,7 +164,7 @@
       "was_price_sek": 2990,
       "discount_note": "~57% off (1290 vs 2990 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/robotdammsugare/dreame-d20-robotdammsugare-vit/p-4122725/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 509",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 495",
       "category": "household",
       "image": "images/1ibmfq3Z0o28wplb1jCaQuZQ7B07h0Wm4.jpg"
     },
@@ -186,20 +175,9 @@
       "was_price_sek": 2990,
       "discount_note": "~57% off (1290 vs 2990 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/robotdammsugare/dreame-d20-robotdammsugare-svart/p-4122727/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 213",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 233",
       "category": "household",
       "image": "images/1vgBEl7sNqzyGHA3nftlSQQrJZOUp9zvh.jpg"
-    },
-    {
-      "name": "LG NS30A 2.1-kanals soundbar, svart",
-      "shop": "POWER",
-      "price_sek": 1290,
-      "was_price_sek": 2990,
-      "discount_note": "~57% off (1290 vs 2990 SEK)",
-      "url": "https://www.power.se/tv-och-ljud/soundbars/lg-ns30a-21-kanals-soundbar-svart/p-4231980/",
-      "caveat": "POWER price (campaign 9/11-6/12); web stock 4",
-      "category": "electronics",
-      "image": "images/1tOSqfxJpqfox52cFoz1MvEer3UYjxvqq.jpg"
     },
     {
       "name": "Point AFS5T2 airfryer",
@@ -208,7 +186,7 @@
       "was_price_sek": 1399,
       "discount_note": "~57% off (599 vs 1399 SEK)",
       "url": "https://www.power.se/koksapparater/stekning-och-kokning/airfryers-och-fritoser/airfryers/point-afs5t2-airfryer/p-1889408/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 1374",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 1234",
       "category": "household",
       "image": "images/1CsauIZIHju8_7zMjALiJBzGJDp0N64L8.jpg"
     },
@@ -219,7 +197,7 @@
       "was_price_sek": 299,
       "discount_note": "~57% off (129 vs 299 SEK)",
       "url": "https://www.power.se/koksapparater/kaffe-och-te/kaffebryggare/senz-secm125ltr-125-l-kaffebryggare/p-1053104/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 3345",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 3301",
       "category": "household",
       "image": "images/1xrHrmGlRwc3_ZeymVl3mNMLroKLl0mee.jpg"
     },
@@ -230,7 +208,7 @@
       "was_price_sek": 2099,
       "discount_note": "~57% off (899 vs 2099 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/dammsugare/bosch-series-4-bgl38bu1-dammsugare-blaa/p-4518421/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 460",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 364",
       "category": "household",
       "image": "images/1Lp3dJYewa7XTil4iWGKnyXDiql8q5lLf.jpg"
     },
@@ -241,7 +219,7 @@
       "was_price_sek": 2199,
       "discount_note": "~57% off (949 vs 2199 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/skaftdammsugare/bosch-bchf2mx16-skaftdammsugare-graa/p-1066728/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 2059",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 1926",
       "category": "household",
       "image": "images/1M-qDoNMhvvrURTPPV6kz3zKDX90q9Z5X.jpg"
     },
@@ -252,7 +230,7 @@
       "was_price_sek": 1799,
       "discount_note": "~56% off (799 vs 1799 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/dammsugare/point-300-series-pob300-dammsugare/p-4118387/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 1144",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 1128",
       "category": "household",
       "image": "images/1W_aZqHBfm3lAOrVCHQciUnYAUIBIHJgV.jpg"
     },
@@ -263,7 +241,7 @@
       "was_price_sek": 24999,
       "discount_note": "~56% off (10999 vs 24999 SEK)",
       "url": "https://www.power.se/vitvaror/kyl-och-frys/kylskaap/siemens-iq500-ki81radc0-integrerat-kylskaap/p-4229839/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 141",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 108",
       "category": "household",
       "image": "images/1cHl-_T_rQQ08pPLSpVAkbeb-aa_B_E1X.jpg"
     },
@@ -274,7 +252,7 @@
       "was_price_sek": 1099,
       "discount_note": "~55% off (499 vs 1099 SEK)",
       "url": "https://www.power.se/mobil-och-foto/smartwatch-och-wearables/smartwatch/triacle-legacy-one-fitness-smartwatch-guldvit/p-2878011/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 1121",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 823",
       "category": "electronics",
       "image": "images/1U_uTGF_oYeYf-Yr_jIfO9IAzIliZDNjO.jpg"
     },
@@ -285,7 +263,7 @@
       "was_price_sek": 1099,
       "discount_note": "~55% off (499 vs 1099 SEK)",
       "url": "https://www.power.se/mobil-och-foto/smartwatch-och-wearables/smartwatch/triacle-legacy-one-fitness-smartwatch-svartsvart/p-2878010/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 1929",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 1209",
       "category": "electronics",
       "image": "images/pw-triacle-legacy-one-fitness-smartwatch-svart-svart.jpg"
     },
@@ -296,7 +274,7 @@
       "was_price_sek": 3990,
       "discount_note": "~55% off (1790 vs 3990 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/robotdammsugare/roborock-q7-tf-robotdammsugare-svart/p-4008422/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 574",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 386",
       "category": "household",
       "image": "images/1B3X5tby3St7-1oK8lw7Qw9nWjFKCRi80.jpg"
     },
@@ -307,8 +285,19 @@
       "was_price_sek": 9999,
       "discount_note": "~55% off (4499 vs 9999 SEK)",
       "url": "https://www.power.se/vitvaror/matlagning/inbyggnadsugnar/lg-ws5d7230g-integrerad-ugn/p-4266078/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 634",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 581",
       "category": "household",
+      "image": null
+    },
+    {
+      "name": "Starlink Mini X Kit satellitantenn och Wi-Fi 6-router",
+      "shop": "POWER",
+      "price_sek": 2449,
+      "was_price_sek": 5399,
+      "discount_note": "~55% off (2449 vs 5399 SEK)",
+      "url": "https://www.power.se/mobil-och-foto/mobilt-bredband/4g-mobilt-bredband/starlink-mini-x-kit-satellitantenn-och-wi-fi-6-router/p-4541761/",
+      "caveat": "POWER price (campaign 9/11-6/12); web stock 310",
+      "category": "computers",
       "image": null
     },
     {
@@ -318,7 +307,7 @@
       "was_price_sek": 6490,
       "discount_note": "~54% off (2989 vs 6490 SEK)",
       "url": "https://www.power.se/tv-och-ljud/traadlosa-hogtalare/bluetooth-hogtalare/jbl-boombox-3-bluetooth-hogtalare-svart/p-1509243/",
-      "caveat": "POWER price (campaign 16/11-13/12); web stock 728",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 836",
       "category": "electronics",
       "image": "images/pw-jbl-boombox-3-bluetooth-hogtalare-svart.jpg"
     },
@@ -329,7 +318,7 @@
       "was_price_sek": 1499,
       "discount_note": "~54% off (689 vs 1499 SEK)",
       "url": "https://www.power.se/tv-och-ljud/traadlosa-hogtalare/partyhogtalare/senz-spa3226-partyhogtalare/p-4229959/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 422",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 306",
       "category": "electronics",
       "image": "images/1GwiNVmahgTsuGV0eY3SWlZvO83keVfJ1.jpg"
     },
@@ -340,20 +329,9 @@
       "was_price_sek": 149,
       "discount_note": "~54% off (69 vs 149 SEK)",
       "url": "https://www.power.se/tv-och-ljud/traadlosa-hogtalare/bluetooth-hogtalare/senz-sbl-1124-bluetooth-hogtalare/p-3237410/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 9055",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 9002",
       "category": "electronics",
       "image": "images/1gQkTFa9KVFZPu0J1rxiTNXIkVTqg_5H6.jpg"
-    },
-    {
-      "name": "ASUS RT-BE50 BE3600 WiFi 7-router",
-      "shop": "POWER",
-      "price_sek": 790,
-      "was_price_sek": 1699,
-      "discount_note": "~54% off (790 vs 1699 SEK)",
-      "url": "https://www.power.se/datorer-och-surfplattor/natverk-och-routers/traadlos-router/asus-rt-be50-be3600-wifi-7-router/p-4088919/",
-      "caveat": "POWER price (campaign 9/11-29/11); web stock 48",
-      "category": "computers",
-      "image": "images/1Kr9SZ3_1SyZ4YECFlGSOZpsfv1AtuG23.jpg"
     },
     {
       "name": "Electrolux 600-serien EFI633PX4EQ tvättmaskin",
@@ -362,9 +340,20 @@
       "was_price_sek": 12999,
       "discount_note": "~54% off (5999 vs 12999 SEK)",
       "url": "https://www.power.se/vitvaror/tvatt-och-torkning/frontmatade-tvattmaskiner/electrolux-600-serien-efi633px4eq-tvattmaskin/p-4246044/",
-      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 343",
+      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 330",
       "category": "household",
       "image": "images/15bKYKfkb2zCUxPC0IdhsKCdvdQc1crMG.jpg"
+    },
+    {
+      "name": "Samsung RR39C7EJ5WW/EF kylskåp, Snow White",
+      "shop": "POWER",
+      "price_sek": 5999,
+      "was_price_sek": 12999,
+      "discount_note": "~54% off (5999 vs 12999 SEK)",
+      "url": "https://www.power.se/vitvaror/kyl-och-frys/kylskaap/samsung-rr39c7ej5wwef-kylskaap-snow-white/p-2109627/",
+      "caveat": "POWER price (campaign 21/11-30/11); web stock 46",
+      "category": "household",
+      "image": "images/pw-samsung-rr39c7ej5ww-ef-kylskap-snow-white.jpg"
     },
     {
       "name": "De’Longhi La Specialista Touch EC9455.M espressomaskin",
@@ -373,7 +362,7 @@
       "was_price_sek": 11999,
       "discount_note": "~54% off (5499 vs 11999 SEK)",
       "url": "https://www.power.se/koksapparater/kaffe-och-te/kaffe-och-espressomaskiner/manuella-espressomaskiner/delonghi-la-specialista-touch-ec9455m-espressomaskin/p-4222543/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 56",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 10",
       "category": "household",
       "image": "images/1dcY1pTkAa1-1zNQ_ayozomQWtobmdubh.jpg"
     },
@@ -384,31 +373,9 @@
       "was_price_sek": 1499,
       "discount_note": "~53% off (699 vs 1499 SEK)",
       "url": "https://www.power.se/personvaard/haarborttagning-och-trimning-for-man/rakapparater/braun-series-5-52-n1500s-rakapparat/p-4519528/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 494",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 343",
       "category": "household",
       "image": "images/1DB8dOdl3vWsKDd2dEfSsV25sapM6XQWK.jpg"
-    },
-    {
-      "name": "Roborock Saros 20 Sonic robotdammsugare, vit",
-      "shop": "POWER",
-      "price_sek": 7490,
-      "was_price_sek": 15990,
-      "discount_note": "~53% off (7490 vs 15990 SEK)",
-      "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/robotdammsugare/roborock-saros-20-sonic-robotdammsugare-vit/p-4238277/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 292",
-      "category": "household",
-      "image": null
-    },
-    {
-      "name": "LG 75\" QNED evo MiniLED 93 4K TV 2026 - 75QNED93B6A",
-      "shop": "POWER",
-      "price_sek": 13990,
-      "was_price_sek": 29999,
-      "discount_note": "~53% off (13990 vs 29999 SEK)",
-      "url": "https://www.power.se/tv-och-ljud/tv/lg-75-qned-evo-miniled-93-4k-tv-2026-75qned93b6a/p-4317059/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 19",
-      "category": "electronics",
-      "image": "images/1vjSDLWs_NXIrt2hhzaIKwCNRqAqZW_IU.jpg"
     },
     {
       "name": "LG 55\" QNED evo MiniLED 87 4K TV 2026 - 55QNED87B6A",
@@ -417,7 +384,7 @@
       "was_price_sek": 16999,
       "discount_note": "~53% off (7990 vs 16999 SEK)",
       "url": "https://www.power.se/tv-och-ljud/tv/lg-55-qned-evo-miniled-87-4k-tv-2026-55qned87b6a/p-4318136/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 153",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 108",
       "category": "electronics",
       "image": "images/1f3DGPWaUBKFjx6bBJytl32012LN6svms.jpg"
     },
@@ -428,7 +395,7 @@
       "was_price_sek": 599,
       "discount_note": "~53% off (279 vs 599 SEK)",
       "url": "https://www.power.se/koksapparater/kaffe-och-te/kaffebryggare/braun-kf1100bk-kaffebryggare/p-2651963/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 1240",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 974",
       "category": "household",
       "image": "images/1F0L6QET28BJ22HXANKqOdGzQ7vFj7858.jpg"
     },
@@ -439,18 +406,29 @@
       "was_price_sek": 16999,
       "discount_note": "~53% off (7999 vs 16999 SEK)",
       "url": "https://www.power.se/vitvaror/matlagning/inbyggnadsugnar/aeg-6000-serien-tp60cb-inbyggnadsugn/p-4523413/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 343",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 216",
       "category": "household",
       "image": null
     },
     {
+      "name": "Samsung RR39C7EJ5B1/EF kylskåp, Black Doi",
+      "shop": "POWER",
+      "price_sek": 6599,
+      "was_price_sek": 13999,
+      "discount_note": "~53% off (6599 vs 13999 SEK)",
+      "url": "https://www.power.se/vitvaror/kyl-och-frys/kylskaap/samsung-rr39c7ej5b1ef-kylskaap-black-doi/p-2109626/",
+      "caveat": "POWER price (campaign 21/11-30/11); web stock 21",
+      "category": "household",
+      "image": "images/pw-samsung-rr39c7ej5b1-ef-kylskap-black-doi.jpg"
+    },
+    {
       "name": "Sennheiser Momentum 4 Wireless brusreducerande hörlurar, svart",
       "shop": "POWER",
-      "price_sek": 1890,
+      "price_sek": 1887,
       "was_price_sek": 3990,
-      "discount_note": "~53% off (1890 vs 3990 SEK)",
+      "discount_note": "~53% off (1887 vs 3990 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/traadlosa-horlurar/sennheiser-momentum-4-wireless-brusreducerande-horlurar-svart/p-1649874/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 248",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 128",
       "category": "electronics",
       "image": "images/1IH3hZOwACCzaqjRdRr-XitiD_QSkS-PJ.jpg"
     },
@@ -461,7 +439,7 @@
       "was_price_sek": 2890,
       "discount_note": "~52% off (1399 vs 2890 SEK)",
       "url": "https://www.power.se/personvaard/haarborttagning-och-trimning-for-man/rakapparater/braun-series-7-72-c1200s-rakapparat/p-4121267/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 602",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 538",
       "category": "household",
       "image": "images/11gOa9dUAW5TYIXET7qKCY-JVdakbRIKc.jpg"
     },
@@ -472,7 +450,7 @@
       "was_price_sek": 9999,
       "discount_note": "~52% off (4799 vs 9999 SEK)",
       "url": "https://www.power.se/vitvaror/tvatt-och-torkning/frontmatade-tvattmaskiner/lg-f4x5011tkb-tvattmaskin/p-4215500/",
-      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 149",
+      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 60",
       "category": "household",
       "image": "images/1GRhBcizQgXd4kjCCyx2bnpDr2dgCE3vV.jpg"
     },
@@ -483,7 +461,7 @@
       "was_price_sek": 249,
       "discount_note": "~52% off (119 vs 249 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/traadlosa-horlurar/senz-around-ear-traadlosa-horlurar-svart/p-4115980/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 2782",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 2597",
       "category": "electronics",
       "image": "images/1MOaUMtX8gIl-WlcjmgdnKw7fA0zhzBws.jpg"
     },
@@ -494,7 +472,7 @@
       "was_price_sek": 3490,
       "discount_note": "~52% off (1690 vs 3490 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tour-pro-3-true-wireless-horlurar-svart/p-3561302/",
-      "caveat": "POWER price (campaign 16/11-29/11); web stock 220",
+      "caveat": "POWER price (campaign 16/11-29/11); web stock 537",
       "category": "electronics",
       "image": "images/pw-jbl-tour-pro-3-true-wireless-horlurar-svart.jpg"
     },
@@ -505,7 +483,7 @@
       "was_price_sek": 3490,
       "discount_note": "~52% off (1690 vs 3490 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tour-pro-3-true-wireless-horlurar-latte/p-3561303/",
-      "caveat": "POWER price (campaign 16/11-29/11); web stock 39",
+      "caveat": "POWER price (campaign 16/11-29/11); web stock 19",
       "category": "electronics",
       "image": "images/pw-jbl-tour-pro-3-true-wireless-horlurar-latte.jpg"
     },
@@ -516,20 +494,9 @@
       "was_price_sek": 3490,
       "discount_note": "~52% off (1690 vs 3490 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tour-pro-3-true-wireless-horlurar-blaa/p-4199147/",
-      "caveat": "POWER price (campaign 16/11-29/11); web stock 230",
+      "caveat": "POWER price (campaign 16/11-29/11); web stock 282",
       "category": "electronics",
       "image": null
-    },
-    {
-      "name": "Electrolux 300-serien LFP326W köksfläkt",
-      "shop": "POWER",
-      "price_sek": 1949,
-      "was_price_sek": 3999,
-      "discount_note": "~51% off (1949 vs 3999 SEK)",
-      "url": "https://www.power.se/vitvaror/koksflaktar-och-tillbehor/koksflaktar/electrolux-300-serien-lfp326w-koksflakt/p-1399289/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 3",
-      "category": "household",
-      "image": "images/1vqeFLFv3Lvl8MDSf2bjRGm0GIimqLuMr.jpg"
     },
     {
       "name": "Braun NEVO 15000c rakapparat",
@@ -538,7 +505,7 @@
       "was_price_sek": 8499,
       "discount_note": "~51% off (4190 vs 8499 SEK)",
       "url": "https://www.power.se/personvaard/haarborttagning-och-trimning-for-man/rakapparater/braun-nevo-15000c-rakapparat/p-4313166/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 262",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 210",
       "category": "household",
       "image": "images/1ZOB1t6MMAkFt09l2WmsJe4Dlg1RyeXHH.jpg"
     },
@@ -549,7 +516,7 @@
       "was_price_sek": 7099,
       "discount_note": "~51% off (3499 vs 7099 SEK)",
       "url": "https://www.power.se/personvaard/haarborttagning-och-trimning-for-man/rakapparater/philips-i9000-prestige-ultra-xp940737-rakapparat/p-4522827/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 152",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 123",
       "category": "household",
       "image": "images/1yZqqXq-LGTMi3GUXbO7Eum08rHnDSj1g.jpg"
     },
@@ -560,7 +527,7 @@
       "was_price_sek": 38999,
       "discount_note": "~51% off (18999 vs 38999 SEK)",
       "url": "https://www.power.se/vitvaror/kyl-och-frys/kylskaap/liebherr-prime-ikb-51vc50i-integrerad-kylskaap/p-3598226/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 60",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 49",
       "category": "household",
       "image": null
     },
@@ -571,7 +538,7 @@
       "was_price_sek": 5499,
       "discount_note": "~51% off (2689 vs 5499 SEK)",
       "url": "https://www.power.se/koksapparater/kaffe-och-te/kaffe-och-espressomaskiner/automatiska-kaffemaskiner/delonghi-ecam22112b-magnifica-s-kaffemaskin/p-2353915/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 283",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 157",
       "category": "household",
       "image": "images/1icBVTnGoC-HD4S1w-Jgr-c89hP2xAo7W.jpg"
     },
@@ -582,9 +549,42 @@
       "was_price_sek": 990,
       "discount_note": "~51% off (490 vs 990 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tune-beam-2-true-wireless-horlurar-svart/p-3637809/",
-      "caveat": "POWER price (campaign 16/11-13/12); web stock 31",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 1326",
       "category": "electronics",
       "image": "images/pw-jbl-tune-beam-2-true-wireless-horlurar-svart.jpg"
+    },
+    {
+      "name": "JBL Tune Buds 2 True Wireless hörlurar, svart",
+      "shop": "POWER",
+      "price_sek": 490,
+      "was_price_sek": 990,
+      "discount_note": "~51% off (490 vs 990 SEK)",
+      "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tune-buds-2-true-wireless-horlurar-svart/p-3637806/",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 645",
+      "category": "electronics",
+      "image": "images/pw-jbl-tune-buds-2-true-wireless-horlurar-svart.jpg"
+    },
+    {
+      "name": "JBL Tune Flex 2 True Wireless hörlurar, svart",
+      "shop": "POWER",
+      "price_sek": 490,
+      "was_price_sek": 990,
+      "discount_note": "~51% off (490 vs 990 SEK)",
+      "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tune-flex-2-true-wireless-horlurar-svart/p-3637815/",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 384",
+      "category": "electronics",
+      "image": "images/pw-jbl-tune-flex-2-true-wireless-horlurar-svart.jpg"
+    },
+    {
+      "name": "JBL Tune Beam 2 True Wireless hörlurar, vita",
+      "shop": "POWER",
+      "price_sek": 490,
+      "was_price_sek": 990,
+      "discount_note": "~51% off (490 vs 990 SEK)",
+      "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tune-beam-2-true-wireless-horlurar-vita/p-3637810/",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 75",
+      "category": "electronics",
+      "image": "images/pw-jbl-tune-beam-2-true-wireless-horlurar-vita.jpg"
     },
     {
       "name": "TCL 98\" 98T8D / 4K / QD-Mini LED / 144Hz / Google Tv",
@@ -598,6 +598,17 @@
       "image": "images/wh-tcl-98-98t8d-4k-qd-mini-led-144hz-google-tv.jpg"
     },
     {
+      "name": "Logitech M330 Silent Plus",
+      "shop": "Webhallen",
+      "price_sek": 149,
+      "was_price_sek": 489,
+      "discount_note": "~70% off (149 vs 489 SEK)",
+      "url": "https://www.webhallen.com/se/product/250788",
+      "caveat": "Webhallen campaign price until 2026-12-01; max 2 per customer",
+      "category": "computers",
+      "image": "images/wh-logitech-m330-silent-plus.jpg"
+    },
+    {
       "name": "Mini Projector MPR 500",
       "shop": "Webhallen",
       "price_sek": 499,
@@ -607,6 +618,17 @@
       "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "electronics",
       "image": null
+    },
+    {
+      "name": "Glorious Model O Wired 2 - Matte Black",
+      "shop": "Webhallen",
+      "price_sek": 269,
+      "was_price_sek": 779,
+      "discount_note": "~65% off (269 vs 779 SEK)",
+      "url": "https://www.webhallen.com/se/product/354728",
+      "caveat": "Webhallen campaign price until 2026-12-06; max 2 per customer",
+      "category": "computers",
+      "image": "images/wh-glorious-model-o-wired-2-matte-black.jpg"
     },
     {
       "name": "Tefal TW4B36EA Compact Power XXL Cyclonic",
@@ -620,15 +642,26 @@
       "image": "images/1RJm_sbZxdunAuNzuy5O3yjc-K_kzL9mV.jpg"
     },
     {
-      "name": "TCL 85\" 85C8L / 4K / SQD-Mini LED / 144Hz / Google Tv",
+      "name": "Varmilo VYU68 Victory Hall Effect 65% Gateron Magnet White Linear",
       "shop": "Webhallen",
-      "price_sek": 26990,
-      "was_price_sek": 74990,
-      "discount_note": "~64% off (26990 vs 74990 SEK)",
-      "url": "https://www.webhallen.com/se/product/397765",
+      "price_sek": 999,
+      "was_price_sek": 2790,
+      "discount_note": "~64% off (999 vs 2790 SEK)",
+      "url": "https://www.webhallen.com/se/product/373646",
+      "caveat": "Webhallen campaign price until 2026-12-16; max 2 per customer",
+      "category": "computers",
+      "image": "images/wh-varmilo-vyu68-victory-hall-effect-65-gateron-magnet-white-li.jpg"
+    },
+    {
+      "name": "TCL 75\" 75C8L / 4K / SQD-Mini LED / 144Hz / Google Tv",
+      "shop": "Webhallen",
+      "price_sek": 19990,
+      "was_price_sek": 54990,
+      "discount_note": "~64% off (19990 vs 54990 SEK)",
+      "url": "https://www.webhallen.com/se/product/397752",
       "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "electronics",
-      "image": "images/wh-tcl-85-85c8l-4k-sqd-mini-led-144hz-google-tv.jpg"
+      "image": "images/wh-tcl-75-75c8l-4k-sqd-mini-led-144hz-google-tv.jpg"
     },
     {
       "name": "LG NS70TR Soundbar 5.1.1 Dolby Atmos med bakre högtalare",
@@ -675,29 +708,18 @@
       "image": "images/1Pu0FXMcYcSdgtNzKhspgBZTP7_yu4mpj.jpg"
     },
     {
-      "name": "Hisense AX5140Q Soundbar Dolby Atmos DTS:X",
+      "name": "TCL 65\" 65C8L / 4K / SQD-Mini LED / 144Hz / Google Tv",
       "shop": "Webhallen",
-      "price_sek": 3190,
-      "was_price_sek": 7990,
-      "discount_note": "~60% off (3190 vs 7990 SEK)",
-      "url": "https://www.webhallen.com/se/product/400668",
+      "price_sek": 15990,
+      "was_price_sek": 39990,
+      "discount_note": "~60% off (15990 vs 39990 SEK)",
+      "url": "https://www.webhallen.com/se/product/397756",
       "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "electronics",
-      "image": null
+      "image": "images/wh-tcl-65-65c8l-4k-sqd-mini-led-144hz-google-tv.jpg"
     },
     {
-      "name": "Hisense 55\" E8S / Mini-LED / Smart TV (2026)",
-      "shop": "Webhallen",
-      "price_sek": 6490,
-      "was_price_sek": 15990,
-      "discount_note": "~59% off (6490 vs 15990 SEK)",
-      "url": "https://www.webhallen.com/se/product/398728",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": "images/1JVq_0calyFC_N6Uizc7AL4ROvIv2N2X0.jpg"
-    },
-    {
-      "name": "Philips Sonicare ProtectiveClean 6500 Elektrisk Tandborste",
+      "name": "Philips Sonicare ProtectiveClean 6500 Elektrisk Tandborste 2-pack",
       "shop": "Webhallen",
       "price_sek": 1499,
       "was_price_sek": 3549,
@@ -741,26 +763,15 @@
       "image": "images/1bFpjH-h8CzO-Ml36aF3RFcTkfvKbxSDv.jpg"
     },
     {
-      "name": "Logitech G305 Lightspeed - White",
+      "name": "Ducky Tinker75 Prebuilt - Black - MX Cherry Red",
       "shop": "Webhallen",
-      "price_sek": 299,
-      "was_price_sek": 699,
-      "discount_note": "~57% off (299 vs 699 SEK)",
-      "url": "https://www.webhallen.com/se/product/287417",
-      "caveat": "Webhallen campaign price until 2026-12-01; max 2 per customer",
+      "price_sek": 799,
+      "was_price_sek": 1849,
+      "discount_note": "~57% off (799 vs 1849 SEK)",
+      "url": "https://www.webhallen.com/se/product/370313",
+      "caveat": "Webhallen campaign price until 2026-12-06; max 2 per customer",
       "category": "computers",
-      "image": "images/1qJRgbvKbIWIyNLqTRYZphTplk9n1b61j.jpg"
-    },
-    {
-      "name": "Pulsar Xlite Wired Gaming Mouse - White",
-      "shop": "Webhallen",
-      "price_sek": 299,
-      "was_price_sek": 690,
-      "discount_note": "~57% off (299 vs 690 SEK)",
-      "url": "https://www.webhallen.com/se/product/386647",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "computers",
-      "image": "images/wh-pulsar-xlite-wired-gaming-mouse-white.jpg"
+      "image": "images/wh-ducky-tinker75-prebuilt-black-mx-cherry-red.jpg"
     },
     {
       "name": "TCL 75\" 75T8D / 4K / QD-Mini LED / 144Hz / Google Tv",
@@ -772,6 +783,28 @@
       "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "electronics",
       "image": "images/16Pe9_gRObGZdm2SMSEzGKxfHobI24434.jpg"
+    },
+    {
+      "name": "Logitech G305 Lightspeed - White",
+      "shop": "Webhallen",
+      "price_sek": 299,
+      "was_price_sek": 699,
+      "discount_note": "~57% off (299 vs 699 SEK)",
+      "url": "https://www.webhallen.com/se/product/287417",
+      "caveat": "Webhallen campaign price until 2026-12-01; max 2 per customer",
+      "category": "computers",
+      "image": "images/1qJRgbvKbIWIyNLqTRYZphTplk9n1b61j.jpg"
+    },
+    {
+      "name": "Philips 65\" PQS8601 / 4K / QLED / Ambilight / Titan OS",
+      "shop": "Webhallen",
+      "price_sek": 6990,
+      "was_price_sek": 15990,
+      "discount_note": "~56% off (6990 vs 15990 SEK)",
+      "url": "https://www.webhallen.com/se/product/399281",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
+      "category": "electronics",
+      "image": null
     },
     {
       "name": "Hisense 65\" E8S / Mini-LED / Smart TV (2026)",
@@ -802,7 +835,7 @@
       "was_price_sek": 2190,
       "discount_note": "~55% off (990 vs 2190 SEK)",
       "url": "https://www.webhallen.com/se/product/397154",
-      "caveat": "Webhallen campaign price until 2026-11-29; max 2 per customer",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "electronics",
       "image": "images/wh-jbl-live-buds-4-black.jpg"
     },
@@ -818,17 +851,6 @@
       "image": "images/wh-lg-soundbar-ns90ty.jpg"
     },
     {
-      "name": "Hisense 50\" E8S / Mini-LED / Smart TV (2026)",
-      "shop": "Webhallen",
-      "price_sek": 5990,
-      "was_price_sek": 12990,
-      "discount_note": "~54% off (5990 vs 12990 SEK)",
-      "url": "https://www.webhallen.com/se/product/398727",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": "images/wh-hisense-50-e8s-mini-led-smart-tv-2026.jpg"
-    },
-    {
       "name": "JBL Boombox 3 - Svart",
       "shop": "Webhallen",
       "price_sek": 2989,
@@ -838,17 +860,6 @@
       "caveat": "Webhallen campaign price until 2026-12-13; max 2 per customer",
       "category": "electronics",
       "image": "images/wh-jbl-boombox-3-svart.jpg"
-    },
-    {
-      "name": "Saros 20 Sonic - White",
-      "shop": "Webhallen",
-      "price_sek": 7490,
-      "was_price_sek": 15990,
-      "discount_note": "~53% off (7490 vs 15990 SEK)",
-      "url": "https://www.webhallen.com/se/product/397942",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "household",
-      "image": "images/1jwzoFGK8KQnoL7Zj3C5hpxB_IJZ5Z6TB.jpg"
     },
     {
       "name": "Saros 20 Sonic - Black",
@@ -884,17 +895,6 @@
       "image": "images/1wAeG9EUdGpw91PspllK3J4zi9d6Ac-zY.jpg"
     },
     {
-      "name": "Xplora - XGO3 Gen2 Svart",
-      "shop": "Webhallen",
-      "price_sek": 890,
-      "was_price_sek": 1890,
-      "discount_note": "~53% off (890 vs 1890 SEK)",
-      "url": "https://www.webhallen.com/se/product/385009",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": "images/1BNNktJS4miK3c6GW5gdX9I9cada-QNCG.jpg"
-    },
-    {
       "name": "Pulsar X2 CrazyLight Wireless Gaming Mouse - Jet Black",
       "shop": "Webhallen",
       "price_sek": 799,
@@ -906,26 +906,15 @@
       "image": "images/1UU-JnINtaVJNnNCigEiUn88ds4cY2eq-.jpg"
     },
     {
-      "name": "Pulsar X2 CrazyLight Wireless Gaming Mouse - Aqua Zest",
+      "name": "Pulsar X3 CRAZYLIGHT Mini - Jet Black",
       "shop": "Webhallen",
       "price_sek": 799,
       "was_price_sek": 1690,
       "discount_note": "~53% off (799 vs 1690 SEK)",
-      "url": "https://www.webhallen.com/se/product/386303",
+      "url": "https://www.webhallen.com/se/product/397337",
       "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "computers",
-      "image": "images/1G-Xy53GwdihEuQmeTCsjCBAivchJa0Xf.jpg"
-    },
-    {
-      "name": "Pulsar X2 CrazyLight Wireless Gaming Mouse - Volt Shadow",
-      "shop": "Webhallen",
-      "price_sek": 799,
-      "was_price_sek": 1690,
-      "discount_note": "~53% off (799 vs 1690 SEK)",
-      "url": "https://www.webhallen.com/se/product/386302",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "computers",
-      "image": "images/wh-pulsar-x2-crazylight-wireless-gaming-mouse-volt-shadow.jpg"
+      "image": "images/wh-pulsar-x3-crazylight-mini-jet-black.jpg"
     },
     {
       "name": "JBL Live Beam 4 - Black",
@@ -934,7 +923,7 @@
       "was_price_sek": 2100,
       "discount_note": "~53% off (990 vs 2100 SEK)",
       "url": "https://www.webhallen.com/se/product/395565",
-      "caveat": "Webhallen campaign price until 2026-11-29; max 2 per customer",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "electronics",
       "image": "images/wh-jbl-live-beam-4-black.jpg"
     },
@@ -970,6 +959,17 @@
       "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "electronics",
       "image": "images/1yb_ArHwa87FBY84KKborEcjGRjL2pk7-.jpg"
+    },
+    {
+      "name": "Pulsar X2 CrazyLight Wireless Gaming Mouse - Aqua Zest",
+      "shop": "Webhallen",
+      "price_sek": 799,
+      "was_price_sek": 1690,
+      "discount_note": "~53% off (799 vs 1690 SEK)",
+      "url": "https://www.webhallen.com/se/product/386303",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
+      "category": "computers",
+      "image": "images/1G-Xy53GwdihEuQmeTCsjCBAivchJa0Xf.jpg"
     },
     {
       "name": "Logitech G733 Lightspeed Headset - Svart",
@@ -1022,9 +1022,20 @@
       "was_price_sek": 3490,
       "discount_note": "~52% off (1690 vs 3490 SEK)",
       "url": "https://www.webhallen.com/se/product/375515",
-      "caveat": "Webhallen campaign price until 2026-11-29; max 2 per customer",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "electronics",
       "image": "images/wh-jbl-tour-pro-3-black.jpg"
+    },
+    {
+      "name": "Hisense 75\" U7S PRO / 165Hz / MiniLED / Hi-QLED / 3000 nits",
+      "shop": "Webhallen",
+      "price_sek": 15990,
+      "was_price_sek": 32990,
+      "discount_note": "~52% off (15990 vs 32990 SEK)",
+      "url": "https://www.webhallen.com/se/product/398726",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
+      "category": "electronics",
+      "image": "images/wh-hisense-75-u7s-pro-165hz-miniled-hi-qled-3000-nits.jpg"
     },
     {
       "name": "Braun rakapparat NEVO 15000c Våt/Torr",
@@ -1049,28 +1060,6 @@
       "image": "images/wh-jbl-tune-beam-2-svart.jpg"
     },
     {
-      "name": "TCL S60K 3.1ch Dolby Atmos Soundbar (2026)",
-      "shop": "Webhallen",
-      "price_sek": 2490,
-      "was_price_sek": 4990,
-      "discount_note": "~50% off (2490 vs 4990 SEK)",
-      "url": "https://www.webhallen.com/se/product/400977",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": null
-    },
-    {
-      "name": "Logitech C922 Pro Stream Webcam",
-      "shop": "Webhallen",
-      "price_sek": 649,
-      "was_price_sek": 1299,
-      "discount_note": "~50% off (649 vs 1299 SEK)",
-      "url": "https://www.webhallen.com/se/product/253857",
-      "caveat": "Webhallen campaign price until 2026-12-01; max 2 per customer",
-      "category": "computers",
-      "image": "images/wh-logitech-c922-pro-stream-webcam.jpg"
-    },
-    {
       "name": "Philips Airfryer NA352/00 Dual basket",
       "shop": "Webhallen",
       "price_sek": 990,
@@ -1093,15 +1082,48 @@
       "image": "images/13xLuqAW4K1D_XkiZN365ZFPtpkZJTO1H.jpg"
     },
     {
-      "name": "Philips DiamondClean series 9000 sonisk eltandborste / Power Flosser HX3886/43",
+      "name": "SteelSeries Aerox 5",
       "shop": "Webhallen",
-      "price_sek": 1499,
-      "was_price_sek": 2990,
-      "discount_note": "~50% off (1499 vs 2990 SEK)",
-      "url": "https://www.webhallen.com/se/product/375056",
+      "price_sek": 499,
+      "was_price_sek": 999,
+      "discount_note": "~50% off (499 vs 999 SEK)",
+      "url": "https://www.webhallen.com/se/product/347436",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
+      "category": "computers",
+      "image": "images/wh-steelseries-aerox-5.jpg"
+    },
+    {
+      "name": "Svive Flow 7 Wireless Mouse Ultra Light - Vit",
+      "shop": "Webhallen",
+      "price_sek": 399,
+      "was_price_sek": 799,
+      "discount_note": "~50% off (399 vs 799 SEK)",
+      "url": "https://www.webhallen.com/se/product/390316",
+      "caveat": "Webhallen campaign price until 2026-12-01; max 2 per customer",
+      "category": "computers",
+      "image": "images/wh-svive-flow-7-wireless-mouse-ultra-light-vit.jpg"
+    },
+    {
+      "name": "Siemens EQ6 plus s100 Helautomatisk Kaffemaskin - Diamond titanium metallic",
+      "shop": "Webhallen",
+      "price_sek": 4999,
+      "was_price_sek": 9990,
+      "discount_note": "~50% off (4999 vs 9990 SEK)",
+      "url": "https://www.webhallen.com/se/product/402185",
       "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "household",
-      "image": "images/1BvFfzhqi2SuoH_swUiHH3YHSWJa7u95R.jpg"
+      "image": null
+    },
+    {
+      "name": "Keychron M6 trådlös optisk mus 2,4GHz",
+      "shop": "Webhallen",
+      "price_sek": 599,
+      "was_price_sek": 1199,
+      "discount_note": "~50% off (599 vs 1199 SEK)",
+      "url": "https://www.webhallen.com/se/product/401464",
+      "caveat": "Webhallen campaign price until 2026-12-01; max 2 per customer",
+      "category": "computers",
+      "image": null
     },
     {
       "name": "Glorious GMMK 3 HE 75% Black - Pre-Built Nordic ISO - Hall Effect Fox",
@@ -1115,26 +1137,15 @@
       "image": "images/wh-glorious-gmmk-3-he-75-black-pre-built-nordic-iso-hall-effect.jpg"
     },
     {
-      "name": "Glorious GMMK 2 Compact 65% - Fox switch, NO-Layout - Pink",
+      "name": "JBL Cinema SB510 3.1-kanals soundbar med inbyggd subwoofer",
       "shop": "Webhallen",
-      "price_sek": 739,
-      "was_price_sek": 1479,
-      "discount_note": "~50% off (739 vs 1479 SEK)",
-      "url": "https://www.webhallen.com/se/product/382426",
-      "caveat": "Webhallen campaign price until 2026-12-06; max 2 per customer",
-      "category": "computers",
-      "image": "images/wh-glorious-gmmk-2-compact-65-fox-switch-no-layout-pink.jpg"
-    },
-    {
-      "name": "Svive Flow 7 Wireless Mouse Ultra Light - Vit",
-      "shop": "Webhallen",
-      "price_sek": 399,
-      "was_price_sek": 799,
-      "discount_note": "~50% off (399 vs 799 SEK)",
-      "url": "https://www.webhallen.com/se/product/390316",
-      "caveat": "Webhallen campaign price until 2026-12-01; max 2 per customer",
-      "category": "computers",
-      "image": "images/wh-svive-flow-7-wireless-mouse-ultra-light-vit.jpg"
+      "price_sek": 990,
+      "was_price_sek": 1990,
+      "discount_note": "~50% off (990 vs 1990 SEK)",
+      "url": "https://www.webhallen.com/se/product/395444",
+      "caveat": "Webhallen campaign price until 2026-12-13; max 2 per customer",
+      "category": "electronics",
+      "image": "images/wh-jbl-cinema-sb510-3-1-kanals-soundbar-med-inbyggd-subwoofer.jpg"
     },
     {
       "name": "SteelSeries Apex 3",
@@ -1487,17 +1498,6 @@
       "caveat": "Kjell Club member price (free membership) until 2026-11-25; non-member 999 kr",
       "category": "household",
       "image": "images/1SpllfGLaOYZss4lRCkOXp_yqKLOI2S8Y.webp"
-    },
-    {
-      "name": "Nimly Batteripack till elektroniskt dörrlås",
-      "shop": "Kjell & Company",
-      "price_sek": 279,
-      "was_price_sek": 399,
-      "discount_note": "~30% off (279 vs 399 SEK)",
-      "url": "https://www.kjell.com/se/produkter/sakerhet-overvakning/las/smarta-las/nimly-batteripack-till-elektroniskt-dorrlas-p52196",
-      "caveat": "Kjell price until 2026-11-27",
-      "category": "electronics",
-      "image": "images/kj-nimly-batteripack-till-elektroniskt-dorrlas.jpg"
     },
     {
       "name": "Nedis SmartLife Babycam Full HD med mörkerseende",
