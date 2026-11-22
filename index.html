@@ -372,14 +372,22 @@
       padding: 0;
     }
 
+    /* Full product image: contained in a fixed box above the price strip */
+    :root { --price-strip: 4.7rem; --img-bg: #ffffff; }
+    .card-frame { height: 250px; }
+
     .card-image {
       position: absolute;
-      inset: 0;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: var(--price-strip);
       width: 100%;
-      height: 100%;
-      object-fit: cover;
+      height: calc(100% - var(--price-strip));
+      object-fit: contain;
       object-position: center;
-      background: var(--bg-frame);
+      padding: 2.6rem 1.25rem 0.7rem;
+      background: var(--img-bg);
       z-index: 0;
     }
 
@@ -405,10 +413,15 @@
     }
 
     .card-frame.has-image .frame-price {
-      position: relative;
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: var(--price-strip);
+      justify-content: center;
       z-index: 1;
       margin: 0;
-      padding: 0.7rem 1.1rem 0.85rem;
+      padding: 0.55rem 1.1rem 0.6rem;
       background: var(--bg-card);
       border-top: 1px solid var(--border);
     }
@@ -419,6 +432,10 @@
       align-items: flex-start;
       gap: 0.5rem;
     }
+
+    /* keep the category label clear of the discount badge (top-right) */
+    .frame-top { padding-right: 4.4rem; }
+    .card-frame.has-image .frame-top { padding-right: 5.3rem; }
 
     .shop-initials {
       font-family: var(--mono);
@@ -525,6 +542,50 @@
 
     .caveat::before { content: "⚠ "; }
 
+    /* —— Price check (Prisjakt history) —— */
+    .pc {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.3rem 0.5rem;
+      font-size: 0.76rem;
+      line-height: 1.35;
+    }
+    .pc-box {
+      border-radius: var(--radius-sm);
+      padding: 0.45rem 0.55rem;
+      border: 1px solid;
+    }
+    .pc-amber { --pc: #f59e0b; background: rgba(245, 158, 11, 0.1); border-color: rgba(245, 158, 11, 0.35); }
+    .pc-red { --pc: #ef4444; background: rgba(239, 68, 68, 0.1); border-color: rgba(239, 68, 68, 0.4); }
+    html[data-theme="light"] .pc-amber { --pc: #b45309; }
+    html[data-theme="light"] .pc-red { --pc: #b91c1c; }
+    .pc-badge {
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      color: #0a0a0a;
+      background: var(--pc);
+      border-radius: 5px;
+      padding: 0.12rem 0.42rem;
+    }
+    html[data-theme="light"] .pc-badge { color: #fff; }
+    .pc-line { color: var(--text); font-weight: 550; }
+    .pc-muted { color: var(--text-dim); font-size: 0.72rem; }
+    .pc-link {
+      color: var(--text-muted);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      cursor: pointer;
+      font-size: 0.72rem;
+      margin-left: auto;
+      border-radius: 2px;
+      padding: 0.1rem 0;
+    }
+    .pc-link:hover { color: var(--accent); }
+    .pc-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
     .open-link {
       margin-top: auto;
       padding-top: 0.55rem;
@@ -592,7 +653,7 @@
       .brand-meta { display: none; }
       .header-quiet { display: none; }
       .hero { padding: 1.5rem 0 1rem; }
-      .card-frame { height: 180px; }
+      .card-frame { height: 236px; }
       .grid { grid-template-columns: 1fr; }
     }
   </style>
@@ -629,6 +690,10 @@
         <span class="filter-label">Shop</span>
         <div class="chip-scroll" data-chip-host="shop"></div>
       </div>
+      <div class="filter-row" id="sortFilters">
+        <span class="filter-label">Sortera</span>
+        <div class="chip-scroll" data-chip-host="sort"></div>
+      </div>
       <p class="results-line" id="resultsLine"></p>
       <p class="load-status" id="loadStatus" hidden></p>
     </section>
@@ -656,12 +721,19 @@
       let data = null;
       let category = "all";
       let shop = "all";
+      let sort = "default";
+      const SORTS = [
+        { id: "default", label: "Standard" },
+        { id: "claimed", label: "Störst rabatt" },
+        { id: "real", label: "Verklig rabatt" },
+      ];
 
       const el = {
         meta: document.getElementById("metaQuiet"),
         heroCount: document.getElementById("heroCount"),
         catFilters: document.querySelector('#categoryFilters [data-chip-host="category"]'),
         shopFilters: document.querySelector('#shopFilters [data-chip-host="shop"]'),
+        sortFilters: document.querySelector('#sortFilters [data-chip-host="sort"]'),
         grid: document.getElementById("dealGrid"),
         results: document.getElementById("resultsLine"),
         loadStatus: document.getElementById("loadStatus"),
@@ -731,12 +803,38 @@
         );
       }
 
+      function claimedPct(d) {
+        if (!d.was_price_sek || d.was_price_sek <= 0 || d.price_sek == null) return null;
+        return ((d.was_price_sek - d.price_sek) / d.was_price_sek) * 100;
+      }
+
+      const PC_VERIFIED = { ok: 1, raised_before_sale: 1, inflated: 1 };
+
+      // Real discount from the price check; falls back to the claimed discount when unknown.
+      function realPct(d) {
+        const pc = d.pricecheck;
+        if (pc && PC_VERIFIED[pc.status] && typeof pc.real_discount_pct === "number") {
+          return pc.real_discount_pct;
+        }
+        return claimedPct(d);
+      }
+
       function filteredDeals() {
-        return (data.deals || []).filter((d) => {
+        const list = (data.deals || []).filter((d) => {
           const catOk = category === "all" || d.category === category;
           const shopOk = shop === "all" || d.shop === shop;
           return catOk && shopOk;
         });
+        if (sort === "default") return list;
+        const key = sort === "real" ? realPct : claimedPct;
+        return list
+          .map((d, i) => ({ d, i, k: key(d) }))
+          .sort((a, b) => {
+            const ak = a.k == null ? -Infinity : a.k;
+            const bk = b.k == null ? -Infinity : b.k;
+            return bk - ak || a.i - b.i;
+          })
+          .map((x) => x.d);
       }
 
       function renderMeta() {
@@ -788,6 +886,17 @@
             })
           );
         });
+
+        el.sortFilters.innerHTML = "";
+        SORTS.forEach((o) => {
+          el.sortFilters.appendChild(
+            makeChip(o.label, sort === o.id, () => {
+              sort = o.id;
+              renderFilters();
+              renderGrid();
+            })
+          );
+        });
       }
 
       function escapeHtml(str) {
@@ -796,6 +905,61 @@
           .replace(/</g, "&lt;")
           .replace(/>/g, "&gt;")
           .replace(/"/g, "&quot;");
+      }
+
+      function formatKr(n) {
+        if (n == null || Number.isNaN(Number(n))) return "—";
+        return Math.round(Number(n)).toString().replace(/\B(?=(\d{3})+(?!\d))/g, "\u00A0") + "\u00A0kr";
+      }
+
+      function safeHistoryUrl(u) {
+        return typeof u === "string" && /^https:\/\/www\.prisjakt\.nu\//.test(u) ? u : "";
+      }
+
+      function renderPricecheck(deal) {
+        const pc = deal.pricecheck;
+        if (!pc || typeof pc !== "object") return "";
+        const url = safeHistoryUrl(pc.history_url);
+        const link = url
+          ? '<span class="pc-link" role="link" tabindex="0" data-history="' +
+            escapeHtml(url) +
+            '" title="Öppna prishistorik på Prisjakt">Prishistorik</span>'
+          : "";
+        const pct = typeof pc.real_discount_pct === "number" ? Math.round(pc.real_discount_pct) : null;
+        if (pc.status === "raised_before_sale" && pc.pre_hike_price != null) {
+          const when = pc.pre_hike_month ? " i " + pc.pre_hike_month : "";
+          const rest =
+            pct != null && pct > 0
+              ? "verklig rabatt ca " + pct + "\u00A0%"
+              : "dyrare än före prishöjningen";
+          return (
+            '<div class="pc pc-box pc-amber" title="Butiken höjde priset mer än 30 dagar före rean, så rabatten ser större ut än den är.">' +
+            '<span class="pc-badge">Höjt före rean</span>' +
+            '<span class="pc-line">' +
+            escapeHtml("Var " + formatKr(pc.pre_hike_price) + when + " · " + rest) +
+            "</span>" +
+            link +
+            "</div>"
+          );
+        }
+        if (pc.status === "inflated" && pc.store_low_30d != null) {
+          return (
+            '<div class="pc pc-box pc-red" title="Ordinariepriset är högre än butikens lägsta pris 30 dagar före rean.">' +
+            '<span class="pc-badge">Uppblåst ordinariepris</span>' +
+            '<span class="pc-line">' +
+            escapeHtml(
+              "Lägst " + formatKr(pc.store_low_30d) + " de 30 dagarna före rean" +
+                (pct != null ? " · verklig rabatt ca " + pct + "\u00A0%" : "")
+            ) +
+            "</span>" +
+            link +
+            "</div>"
+          );
+        }
+        if (pc.status === "ok") {
+          return link ? '<div class="pc">' + link + "</div>" : "";
+        }
+        return '<div class="pc"><span class="pc-muted">Ej verifierad</span>' + link + "</div>";
       }
 
       function renderCard(deal) {
@@ -855,6 +1019,7 @@
           (deal.discount_note
             ? '<p class="note">' + escapeHtml(deal.discount_note) + "</p>"
             : "") +
+          renderPricecheck(deal) +
           (deal.caveat
             ? '<p class="caveat">' + escapeHtml(deal.caveat) + "</p>"
             : "") +
@@ -889,6 +1054,17 @@
         deals.forEach((d) => el.grid.appendChild(renderCard(d)));
       }
 
+      // "Prishistorik" sits inside the tile link: open it on its own, never the dealer page.
+      function openHistory(ev) {
+        const t = ev.target && ev.target.closest ? ev.target.closest(".pc-link") : null;
+        if (!t) return;
+        if (ev.type === "keydown" && ev.key !== "Enter" && ev.key !== " ") return;
+        ev.preventDefault();
+        ev.stopPropagation();
+        const url = safeHistoryUrl(t.getAttribute("data-history"));
+        if (url) window.open(url, "_blank", "noopener,noreferrer");
+      }
+
       function boot(payload) {
         data = payload;
         if (!data.deals) data.deals = [];
@@ -917,6 +1093,8 @@
         }
       }
 
+      el.grid.addEventListener("click", openHistory, true);
+      el.grid.addEventListener("keydown", openHistory, true);
       load();
     })();
   </script>
