@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-23T12:48:55+01:00",
+  "generated_at": "2026-11-25T12:49:39+01:00",
   "timezone": "Europe/Stockholm",
-  "count": 129,
+  "count": 144,
   "deals": [
     {
       "name": "Kulz bakplåtspapper till airfryers 50 ark, 20x20 cm",
@@ -10,7 +10,7 @@
       "was_price_sek": 99,
       "discount_note": "~71% off (29 vs 99 SEK)",
       "url": "https://www.power.se/koksapparater/stekning-och-kokning/airfryers-och-fritoser/tillbehor/kulz-bakplaatspapper-till-airfryers-50-ark-20x20-cm/p-3382162/",
-      "caveat": "POWER price (campaign 9/11-6/12); web stock 3508",
+      "caveat": "POWER price (campaign 9/11-6/12); web stock 3463",
       "category": "household",
       "image": null,
       "pricecheck": {
@@ -26,7 +26,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13556873#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -36,13 +36,13 @@
       "was_price_sek": 769,
       "discount_note": "~68% off (249 vs 769 SEK)",
       "url": "https://www.power.se/gaming/pc-och-tillbehor/gaming-moss-och-tangentbord/gaming-mus/logitech-g-g305-datormoss-hogerhand-rf-traadlos-optisk-12000-dpi/p-1152169/",
-      "caveat": "POWER price (campaign 16/11-6/12); web stock 508",
+      "caveat": "POWER price (campaign 16/11-6/12); web stock 292",
       "category": "computers",
       "image": null,
       "pricecheck": {
         "status": "raised_before_sale",
         "store_low_30d": 749,
-        "market_low_30d": 260,
+        "market_low_30d": null,
         "pre_hike_price": 289,
         "pre_hike_month": "september",
         "hike_date": "2026-10-06",
@@ -52,7 +52,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=4805874#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -62,7 +62,7 @@
       "was_price_sek": 999,
       "discount_note": "~66% off (339 vs 999 SEK)",
       "url": "https://www.power.se/gaming/pc-och-tillbehor/gaming-moss-och-tangentbord/gaming-mus/logitech-g502-hero-gamingmus/p-1064429/",
-      "caveat": "POWER price (campaign 16/11-6/12); web stock 622",
+      "caveat": "POWER price (campaign 16/11-6/12); web stock 466",
       "category": "computers",
       "image": "images/pw-logitech-g502-hero-gamingmus.jpg",
       "pricecheck": {
@@ -78,7 +78,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=4925912#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -88,7 +88,7 @@
       "was_price_sek": 263,
       "discount_note": "~66% off (89 vs 263 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/horlurar-med-kabel/philips-tah2005bk00-stereohorlurar/p-1206897/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 3989",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 3552",
       "category": "electronics",
       "image": "images/1Y1tVUUaNKQ9RHEMN1sY4-JVhHsWTniIQ.jpg",
       "pricecheck": {
@@ -104,7 +104,7 @@
         "history_url": null,
         "reason": "no_match",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -114,7 +114,7 @@
       "was_price_sek": 499,
       "discount_note": "~64% off (179 vs 499 SEK)",
       "url": "https://www.power.se/tv-och-ljud/traadlosa-hogtalare/bluetooth-hogtalare/senz-pod-bluetooth-hogtalare-svart/p-2278440/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 1460",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 1384",
       "category": "electronics",
       "image": "images/1FHa4stbnuWfB5akIrMogkBR6QUBDrqI5.jpg",
       "pricecheck": {
@@ -130,33 +130,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13131978#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Senz Pod Bluetooth-högtalare, blå",
-      "shop": "POWER",
-      "price_sek": 179,
-      "was_price_sek": 499,
-      "discount_note": "~64% off (179 vs 499 SEK)",
-      "url": "https://www.power.se/tv-och-ljud/traadlosa-hogtalare/bluetooth-hogtalare/senz-pod-bluetooth-hogtalare-blaa/p-2278441/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 623",
-      "category": "electronics",
-      "image": "images/1_2AkcEucrHBUx_yaVi6ji6FN6BLYYchi.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 499,
-        "market_low_30d": 499,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-09",
-        "real_discount_pct": 64.1,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=13131978#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -166,7 +140,7 @@
       "was_price_sek": 5399,
       "discount_note": "~63% off (1999 vs 5399 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/dammsugare/bosch-bgb7x420-ergomaxx-dammsugare/p-2645374/",
-      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 484",
+      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 465",
       "category": "household",
       "image": "images/1alezdVvYQSfiEz7w6oKyboyLdgO-Gj32.jpg",
       "pricecheck": {
@@ -182,7 +156,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=5847946#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -192,7 +166,7 @@
       "was_price_sek": 6499,
       "discount_note": "~62% off (2499 vs 6499 SEK)",
       "url": "https://www.power.se/personvaard/haarborttagning-och-trimning-for-man/rakapparater/braun-series-9-sport-s9150cc-rakapparat/p-4313164/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 651",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 617",
       "category": "household",
       "image": "images/1BXe5L45N02kFzfwdnI0XLa75QRmFtM8k.jpg",
       "pricecheck": {
@@ -208,7 +182,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13829511#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -218,7 +192,7 @@
       "was_price_sek": 9999,
       "discount_note": "~60% off (3999 vs 9999 SEK)",
       "url": "https://www.power.se/vitvaror/tvatt-och-torkning/frontmatade-tvattmaskiner/hisense-wf1i1341bwm-tvattmaskin/p-4308318/",
-      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 179",
+      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 167",
       "category": "household",
       "image": "images/1acjBgm6rHCZByR_0TCGFrL3sRXqwp16Y.jpg",
       "pricecheck": {
@@ -234,7 +208,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=22865873#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -244,7 +218,7 @@
       "was_price_sek": 1990,
       "discount_note": "~60% off (790 vs 1990 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/traadlosa-horlurar/jbl-live-770-traadlosa-over-ear-brusreducerande-horlurar-svart/p-2590644/",
-      "caveat": "POWER price (campaign 16/11-13/12); web stock 2581",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 2319",
       "category": "electronics",
       "image": "images/pw-jbl-live-770-tradlosa-over-ear-brusreducerande-horlurar-svar.jpg",
       "pricecheck": {
@@ -260,33 +234,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=11992082#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "JBL Live 770 trådlösa Over-Ear brusreducerande hörlurar, vit",
-      "shop": "POWER",
-      "price_sek": 790,
-      "was_price_sek": 1990,
-      "discount_note": "~60% off (790 vs 1990 SEK)",
-      "url": "https://www.power.se/tv-och-ljud/horlurar/traadlosa-horlurar/jbl-live-770-traadlosa-over-ear-brusreducerande-horlurar-vit/p-2590646/",
-      "caveat": "POWER price (campaign 16/11-13/12); web stock 2293",
-      "category": "electronics",
-      "image": "images/pw-jbl-live-770-tradlosa-over-ear-brusreducerande-horlurar-vit.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 1990,
-        "market_low_30d": 990,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-16",
-        "real_discount_pct": 60.3,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=11992082#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -296,7 +244,7 @@
       "was_price_sek": 7999,
       "discount_note": "~59% off (3290 vs 7999 SEK)",
       "url": "https://www.power.se/vitvaror/mikrovaagsugnar-och-tillbehor/inbyggda-mikrovaagsugnar/lg-mg7z2593b-inbyggd-mikrovaagsugn/p-4249394/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 90",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 51",
       "category": "household",
       "image": "images/pw-lg-mg7z2593b-inbyggd-mikrovagsugn.jpg",
       "pricecheck": {
@@ -312,7 +260,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=14819057#statistics",
         "reason": "partial_history",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -322,7 +270,7 @@
       "was_price_sek": 11999,
       "discount_note": "~58% off (4999 vs 11999 SEK)",
       "url": "https://www.power.se/vitvaror/matlagning/inbyggnadsugnar/siemens-iq300-hb572abs4-inbyggnadsugn/p-4143229/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 479",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 441",
       "category": "household",
       "image": "images/1Q3ZYSjgO30IRtIGlhvjqNuHDcpxh1Pfz.jpg",
       "pricecheck": {
@@ -338,7 +286,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15551442#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -348,7 +296,7 @@
       "was_price_sek": 3099,
       "discount_note": "~58% off (1299 vs 3099 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/dammsugare/bosch-serie-6-bgl6ba3-dammsugare-svart/p-1930442/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 745",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 702",
       "category": "household",
       "image": "images/1RRgCss__Lux2g71ky_mdAZmj_6XqvcYp.jpg",
       "pricecheck": {
@@ -364,7 +312,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=8194572#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -374,7 +322,7 @@
       "was_price_sek": 2990,
       "discount_note": "~57% off (1290 vs 2990 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/robotdammsugare/dreame-d20-robotdammsugare-vit/p-4122725/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 388",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 250",
       "category": "household",
       "image": "images/1ibmfq3Z0o28wplb1jCaQuZQ7B07h0Wm4.jpg",
       "pricecheck": {
@@ -390,33 +338,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15011839#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Dreame D20 robotdammsugare, svart",
-      "shop": "POWER",
-      "price_sek": 1290,
-      "was_price_sek": 2990,
-      "discount_note": "~57% off (1290 vs 2990 SEK)",
-      "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/robotdammsugare/dreame-d20-robotdammsugare-svart/p-4122727/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 167",
-      "category": "household",
-      "image": "images/1vgBEl7sNqzyGHA3nftlSQQrJZOUp9zvh.jpg",
-      "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 2990,
-        "market_low_30d": 2034,
-        "pre_hike_price": 1490,
-        "pre_hike_month": "augusti",
-        "hike_date": "2026-08-31",
-        "sale_start": "2026-11-09",
-        "real_discount_pct": 13.4,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=15011839#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -426,7 +348,7 @@
       "was_price_sek": 1399,
       "discount_note": "~57% off (599 vs 1399 SEK)",
       "url": "https://www.power.se/koksapparater/stekning-och-kokning/airfryers-och-fritoser/airfryers/point-afs5t2-airfryer/p-1889408/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 1076",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 872",
       "category": "household",
       "image": "images/1CsauIZIHju8_7zMjALiJBzGJDp0N64L8.jpg",
       "pricecheck": {
@@ -442,7 +364,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=10718430#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -452,7 +374,7 @@
       "was_price_sek": 299,
       "discount_note": "~57% off (129 vs 299 SEK)",
       "url": "https://www.power.se/koksapparater/kaffe-och-te/kaffebryggare/senz-secm125ltr-125-l-kaffebryggare/p-1053104/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 3261",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 3172",
       "category": "household",
       "image": "images/1xrHrmGlRwc3_ZeymVl3mNMLroKLl0mee.jpg",
       "pricecheck": {
@@ -468,7 +390,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=11335170#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -478,7 +400,7 @@
       "was_price_sek": 2099,
       "discount_note": "~57% off (899 vs 2099 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/dammsugare/bosch-series-4-bgl38bu1-dammsugare-blaa/p-4518421/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 250",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 168",
       "category": "household",
       "image": "images/1Lp3dJYewa7XTil4iWGKnyXDiql8q5lLf.jpg",
       "pricecheck": {
@@ -494,7 +416,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=7054064#statistics",
         "reason": "partial_history",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -504,7 +426,7 @@
       "was_price_sek": 2199,
       "discount_note": "~57% off (949 vs 2199 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/skaftdammsugare/bosch-bchf2mx16-skaftdammsugare-graa/p-1066728/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 1832",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 1712",
       "category": "household",
       "image": "images/1M-qDoNMhvvrURTPPV6kz3zKDX90q9Z5X.jpg",
       "pricecheck": {
@@ -520,7 +442,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=5334828#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -530,7 +452,7 @@
       "was_price_sek": 1799,
       "discount_note": "~56% off (799 vs 1799 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/dammsugare/point-300-series-pob300-dammsugare/p-4118387/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 1118",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 1104",
       "category": "household",
       "image": "images/1W_aZqHBfm3lAOrVCHQciUnYAUIBIHJgV.jpg",
       "pricecheck": {
@@ -546,7 +468,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15822425#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -556,7 +478,7 @@
       "was_price_sek": 24999,
       "discount_note": "~56% off (10999 vs 24999 SEK)",
       "url": "https://www.power.se/vitvaror/kyl-och-frys/kylskaap/siemens-iq500-ki81radc0-integrerat-kylskaap/p-4229839/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 85",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 45",
       "category": "household",
       "image": "images/1cHl-_T_rQQ08pPLSpVAkbeb-aa_B_E1X.jpg",
       "pricecheck": {
@@ -572,7 +494,7 @@
         "history_url": null,
         "reason": "no_match",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -582,7 +504,7 @@
       "was_price_sek": 1099,
       "discount_note": "~55% off (499 vs 1099 SEK)",
       "url": "https://www.power.se/mobil-och-foto/smartwatch-och-wearables/smartwatch/triacle-legacy-one-fitness-smartwatch-guldvit/p-2878011/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 799",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 733",
       "category": "electronics",
       "image": "images/1U_uTGF_oYeYf-Yr_jIfO9IAzIliZDNjO.jpg",
       "pricecheck": {
@@ -598,33 +520,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13206214#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Triacle Legacy One Fitness smartwatch, svart/svart",
-      "shop": "POWER",
-      "price_sek": 499,
-      "was_price_sek": 1099,
-      "discount_note": "~55% off (499 vs 1099 SEK)",
-      "url": "https://www.power.se/mobil-och-foto/smartwatch-och-wearables/smartwatch/triacle-legacy-one-fitness-smartwatch-svartsvart/p-2878010/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 1171",
-      "category": "electronics",
-      "image": "images/pw-triacle-legacy-one-fitness-smartwatch-svart-svart.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 1099,
-        "market_low_30d": 1099,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-09",
-        "real_discount_pct": 54.6,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=13206214#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -634,7 +530,7 @@
       "was_price_sek": 3990,
       "discount_note": "~55% off (1790 vs 3990 SEK)",
       "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/robotdammsugare/roborock-q7-tf-robotdammsugare-svart/p-4008422/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 249",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 59",
       "category": "household",
       "image": "images/1B3X5tby3St7-1oK8lw7Qw9nWjFKCRi80.jpg",
       "pricecheck": {
@@ -650,7 +546,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=14903309#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -660,7 +556,7 @@
       "was_price_sek": 9999,
       "discount_note": "~55% off (4499 vs 9999 SEK)",
       "url": "https://www.power.se/vitvaror/matlagning/inbyggnadsugnar/lg-ws5d7230g-integrerad-ugn/p-4266078/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 541",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 505",
       "category": "household",
       "image": null,
       "pricecheck": {
@@ -676,7 +572,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16670264#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -686,7 +582,7 @@
       "was_price_sek": 5399,
       "discount_note": "~55% off (2449 vs 5399 SEK)",
       "url": "https://www.power.se/mobil-och-foto/mobilt-bredband/4g-mobilt-bredband/starlink-mini-x-kit-satellitantenn-och-wi-fi-6-router/p-4541761/",
-      "caveat": "POWER price (campaign 9/11-6/12); web stock 296",
+      "caveat": "POWER price (campaign 9/11-6/12); web stock 289",
       "category": "computers",
       "image": null,
       "pricecheck": {
@@ -702,7 +598,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=21640254#statistics",
         "reason": "no_price_in_window",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -712,7 +608,7 @@
       "was_price_sek": 6490,
       "discount_note": "~54% off (2989 vs 6490 SEK)",
       "url": "https://www.power.se/tv-och-ljud/traadlosa-hogtalare/bluetooth-hogtalare/jbl-boombox-3-bluetooth-hogtalare-svart/p-1509243/",
-      "caveat": "POWER price (campaign 16/11-13/12); web stock 820",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 792",
       "category": "electronics",
       "image": "images/pw-jbl-boombox-3-bluetooth-hogtalare-svart.jpg",
       "pricecheck": {
@@ -728,7 +624,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=5949143#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -738,23 +634,23 @@
       "was_price_sek": 6499,
       "discount_note": "~54% off (2999 vs 6499 SEK)",
       "url": "https://www.power.se/koksapparater/koksmaskiner-och-mixer/koksmaskiner/kenwood-chef-xl-kvl4110s-koksmaskin/p-886673/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 917",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 804",
       "category": "household",
       "image": "images/pw-kenwood-chef-xl-kvl4110s-koksmaskin.jpg",
       "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 6499,
-        "market_low_30d": 3287,
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
         "pre_hike_price": null,
         "pre_hike_month": null,
         "hike_date": null,
-        "sale_start": "2026-11-09",
-        "real_discount_pct": 53.9,
-        "confidence": "medium",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=13765872#statistics",
-        "reason": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "low",
+        "history_url": null,
+        "reason": "uncertain_match",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -764,7 +660,7 @@
       "was_price_sek": 1499,
       "discount_note": "~54% off (689 vs 1499 SEK)",
       "url": "https://www.power.se/tv-och-ljud/traadlosa-hogtalare/partyhogtalare/senz-spa3226-partyhogtalare/p-4229959/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 263",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 181",
       "category": "electronics",
       "image": "images/1GwiNVmahgTsuGV0eY3SWlZvO83keVfJ1.jpg",
       "pricecheck": {
@@ -780,7 +676,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16689679#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -790,7 +686,7 @@
       "was_price_sek": 149,
       "discount_note": "~54% off (69 vs 149 SEK)",
       "url": "https://www.power.se/tv-och-ljud/traadlosa-hogtalare/bluetooth-hogtalare/senz-sbl-1124-bluetooth-hogtalare/p-3237410/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 8974",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 8886",
       "category": "electronics",
       "image": "images/1gQkTFa9KVFZPu0J1rxiTNXIkVTqg_5H6.jpg",
       "pricecheck": {
@@ -806,7 +702,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13827719#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -816,7 +712,7 @@
       "was_price_sek": 12999,
       "discount_note": "~54% off (5999 vs 12999 SEK)",
       "url": "https://www.power.se/vitvaror/tvatt-och-torkning/frontmatade-tvattmaskiner/electrolux-600-serien-efi633px4eq-tvattmaskin/p-4246044/",
-      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 318",
+      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 298",
       "category": "household",
       "image": "images/15bKYKfkb2zCUxPC0IdhsKCdvdQc1crMG.jpg",
       "pricecheck": {
@@ -832,7 +728,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16879473#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -842,7 +738,7 @@
       "was_price_sek": 12999,
       "discount_note": "~54% off (5999 vs 12999 SEK)",
       "url": "https://www.power.se/vitvaror/kyl-och-frys/kylskaap/samsung-rr39c7ej5wwef-kylskaap-snow-white/p-2109627/",
-      "caveat": "POWER price (campaign 21/11-30/11); web stock 45",
+      "caveat": "POWER price (campaign 21/11-30/11); web stock 43",
       "category": "household",
       "image": "images/pw-samsung-rr39c7ej5ww-ef-kylskap-snow-white.jpg",
       "pricecheck": {
@@ -858,7 +754,7 @@
         "history_url": null,
         "reason": "no_match",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -868,7 +764,7 @@
       "was_price_sek": 1499,
       "discount_note": "~53% off (699 vs 1499 SEK)",
       "url": "https://www.power.se/personvaard/haarborttagning-och-trimning-for-man/rakapparater/braun-series-5-52-n1500s-rakapparat/p-4519528/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 234",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 139",
       "category": "household",
       "image": "images/1DB8dOdl3vWsKDd2dEfSsV25sapM6XQWK.jpg",
       "pricecheck": {
@@ -884,7 +780,33 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15965936#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Roborock Saros 20 Sonic robotdammsugare, vit",
+      "shop": "POWER",
+      "price_sek": 7490,
+      "was_price_sek": 15990,
+      "discount_note": "~53% off (7490 vs 15990 SEK)",
+      "url": "https://www.power.se/hushaall-och-tradgaard/rengoring-och-dammsugning/robotdammsugare/roborock-saros-20-sonic-robotdammsugare-vit/p-4238277/",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 586",
+      "category": "household",
+      "image": null,
+      "pricecheck": {
+        "status": "inflated",
+        "store_low_30d": 7490,
+        "market_low_30d": 7490,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-09",
+        "real_discount_pct": 0.0,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16373878#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -894,7 +816,7 @@
       "was_price_sek": 16999,
       "discount_note": "~53% off (7990 vs 16999 SEK)",
       "url": "https://www.power.se/tv-och-ljud/tv/lg-55-qned-evo-miniled-87-4k-tv-2026-55qned87b6a/p-4318136/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 81",
+      "caveat": "POWER price (campaign 9/11-29/11); web stock 38",
       "category": "electronics",
       "image": "images/1f3DGPWaUBKFjx6bBJytl32012LN6svms.jpg",
       "pricecheck": {
@@ -910,7 +832,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16777412#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -920,7 +842,7 @@
       "was_price_sek": 599,
       "discount_note": "~53% off (279 vs 599 SEK)",
       "url": "https://www.power.se/koksapparater/kaffe-och-te/kaffebryggare/braun-kf1100bk-kaffebryggare/p-2651963/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 635",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 209",
       "category": "household",
       "image": "images/1F0L6QET28BJ22HXANKqOdGzQ7vFj7858.jpg",
       "pricecheck": {
@@ -936,7 +858,7 @@
         "history_url": null,
         "reason": "no_match",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -946,7 +868,7 @@
       "was_price_sek": 16999,
       "discount_note": "~53% off (7999 vs 16999 SEK)",
       "url": "https://www.power.se/vitvaror/matlagning/inbyggnadsugnar/aeg-6000-serien-tp60cb-inbyggnadsugn/p-4523413/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 150",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 69",
       "category": "household",
       "image": null,
       "pricecheck": {
@@ -962,7 +884,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=17045110#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -972,7 +894,7 @@
       "was_price_sek": 13999,
       "discount_note": "~53% off (6599 vs 13999 SEK)",
       "url": "https://www.power.se/vitvaror/kyl-och-frys/kylskaap/samsung-rr39c7ej5b1ef-kylskaap-black-doi/p-2109626/",
-      "caveat": "POWER price (campaign 21/11-30/11); web stock 18",
+      "caveat": "POWER price (campaign 21/11-30/11); web stock 17",
       "category": "household",
       "image": "images/pw-samsung-rr39c7ej5b1-ef-kylskap-black-doi.jpg",
       "pricecheck": {
@@ -988,7 +910,7 @@
         "history_url": null,
         "reason": "no_match",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -998,7 +920,7 @@
       "was_price_sek": 3990,
       "discount_note": "~53% off (1887 vs 3990 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/traadlosa-horlurar/sennheiser-momentum-4-wireless-brusreducerande-horlurar-svart/p-1649874/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 48",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 456",
       "category": "electronics",
       "image": "images/1IH3hZOwACCzaqjRdRr-XitiD_QSkS-PJ.jpg",
       "pricecheck": {
@@ -1014,7 +936,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=6999516#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1024,7 +946,7 @@
       "was_price_sek": 2890,
       "discount_note": "~52% off (1399 vs 2890 SEK)",
       "url": "https://www.power.se/personvaard/haarborttagning-och-trimning-for-man/rakapparater/braun-series-7-72-c1200s-rakapparat/p-4121267/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 485",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 428",
       "category": "household",
       "image": "images/11gOa9dUAW5TYIXET7qKCY-JVdakbRIKc.jpg",
       "pricecheck": {
@@ -1040,33 +962,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15111084#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "LG F4X5011TKB tvättmaskin",
-      "shop": "POWER",
-      "price_sek": 4799,
-      "was_price_sek": 9999,
-      "discount_note": "~52% off (4799 vs 9999 SEK)",
-      "url": "https://www.power.se/vitvaror/tvatt-och-torkning/frontmatade-tvattmaskiner/lg-f4x5011tkb-tvattmaskin/p-4215500/",
-      "caveat": "POWER price (campaign 8/11 Kl20:00-30/11); web stock 29",
-      "category": "household",
-      "image": "images/1GRhBcizQgXd4kjCCyx2bnpDr2dgCE3vV.jpg",
-      "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 9999,
-        "market_low_30d": 4999,
-        "pre_hike_price": 4999,
-        "pre_hike_month": "september",
-        "hike_date": "2026-09-28",
-        "sale_start": "2026-11-08",
-        "real_discount_pct": 4.0,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=16399956#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1076,7 +972,7 @@
       "was_price_sek": 249,
       "discount_note": "~52% off (119 vs 249 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/traadlosa-horlurar/senz-around-ear-traadlosa-horlurar-svart/p-4115980/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 2485",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 2303",
       "category": "electronics",
       "image": "images/1MOaUMtX8gIl-WlcjmgdnKw7fA0zhzBws.jpg",
       "pricecheck": {
@@ -1092,7 +988,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15747195#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1102,7 +998,7 @@
       "was_price_sek": 3490,
       "discount_note": "~52% off (1690 vs 3490 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tour-pro-3-true-wireless-horlurar-svart/p-3561302/",
-      "caveat": "POWER price (campaign 16/11-29/11); web stock 520",
+      "caveat": "POWER price (campaign 16/11-29/11); web stock 477",
       "category": "electronics",
       "image": "images/pw-jbl-tour-pro-3-true-wireless-horlurar-svart.jpg",
       "pricecheck": {
@@ -1118,59 +1014,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13801648#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "JBL Tour Pro 3 True Wireless hörlurar, latte",
-      "shop": "POWER",
-      "price_sek": 1690,
-      "was_price_sek": 3490,
-      "discount_note": "~52% off (1690 vs 3490 SEK)",
-      "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tour-pro-3-true-wireless-horlurar-latte/p-3561303/",
-      "caveat": "POWER price (campaign 16/11-29/11); web stock 87",
-      "category": "electronics",
-      "image": "images/pw-jbl-tour-pro-3-true-wireless-horlurar-latte.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 3490,
-        "market_low_30d": 2590,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-16",
-        "real_discount_pct": 51.6,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=13801648#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "JBL Tour Pro 3 True Wireless hörlurar, blå",
-      "shop": "POWER",
-      "price_sek": 1690,
-      "was_price_sek": 3490,
-      "discount_note": "~52% off (1690 vs 3490 SEK)",
-      "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tour-pro-3-true-wireless-horlurar-blaa/p-4199147/",
-      "caveat": "POWER price (campaign 16/11-29/11); web stock 291",
-      "category": "electronics",
-      "image": null,
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 3490,
-        "market_low_30d": 2590,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-16",
-        "real_discount_pct": 51.6,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=13801648#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1180,7 +1024,7 @@
       "was_price_sek": 8499,
       "discount_note": "~51% off (4190 vs 8499 SEK)",
       "url": "https://www.power.se/personvaard/haarborttagning-och-trimning-for-man/rakapparater/braun-nevo-15000c-rakapparat/p-4313166/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 177",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 139",
       "category": "household",
       "image": "images/1ZOB1t6MMAkFt09l2WmsJe4Dlg1RyeXHH.jpg",
       "pricecheck": {
@@ -1196,7 +1040,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16738394#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1206,7 +1050,7 @@
       "was_price_sek": 7099,
       "discount_note": "~51% off (3499 vs 7099 SEK)",
       "url": "https://www.power.se/personvaard/haarborttagning-och-trimning-for-man/rakapparater/philips-i9000-prestige-ultra-xp940737-rakapparat/p-4522827/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 117",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 101",
       "category": "household",
       "image": "images/1yZqqXq-LGTMi3GUXbO7Eum08rHnDSj1g.jpg",
       "pricecheck": {
@@ -1222,7 +1066,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=14781248#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1232,7 +1076,7 @@
       "was_price_sek": 38999,
       "discount_note": "~51% off (18999 vs 38999 SEK)",
       "url": "https://www.power.se/vitvaror/kyl-och-frys/kylskaap/liebherr-prime-ikb-51vc50i-integrerad-kylskaap/p-3598226/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 46",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 42",
       "category": "household",
       "image": null,
       "pricecheck": {
@@ -1248,7 +1092,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=14453180#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1258,7 +1102,7 @@
       "was_price_sek": 5499,
       "discount_note": "~51% off (2689 vs 5499 SEK)",
       "url": "https://www.power.se/koksapparater/kaffe-och-te/kaffe-och-espressomaskiner/automatiska-kaffemaskiner/delonghi-ecam22112b-magnifica-s-kaffemaskin/p-2353915/",
-      "caveat": "POWER price (campaign 9/11-30/11); web stock 71",
+      "caveat": "POWER price (campaign 9/11-30/11); web stock 6",
       "category": "household",
       "image": "images/1icBVTnGoC-HD4S1w-Jgr-c89hP2xAo7W.jpg",
       "pricecheck": {
@@ -1274,7 +1118,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=5882452#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1284,7 +1128,7 @@
       "was_price_sek": 990,
       "discount_note": "~51% off (490 vs 990 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tune-beam-2-true-wireless-horlurar-svart/p-3637809/",
-      "caveat": "POWER price (campaign 16/11-13/12); web stock 1292",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 931",
       "category": "electronics",
       "image": "images/pw-jbl-tune-beam-2-true-wireless-horlurar-svart.jpg",
       "pricecheck": {
@@ -1300,7 +1144,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13835432#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1310,7 +1154,7 @@
       "was_price_sek": 990,
       "discount_note": "~51% off (490 vs 990 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tune-buds-2-true-wireless-horlurar-svart/p-3637806/",
-      "caveat": "POWER price (campaign 16/11-13/12); web stock 629",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 480",
       "category": "electronics",
       "image": "images/pw-jbl-tune-buds-2-true-wireless-horlurar-svart.jpg",
       "pricecheck": {
@@ -1326,7 +1170,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13853510#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1336,7 +1180,7 @@
       "was_price_sek": 990,
       "discount_note": "~51% off (490 vs 990 SEK)",
       "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tune-flex-2-true-wireless-horlurar-svart/p-3637815/",
-      "caveat": "POWER price (campaign 16/11-13/12); web stock 369",
+      "caveat": "POWER price (campaign 16/11-13/12); web stock 293",
       "category": "electronics",
       "image": "images/pw-jbl-tune-flex-2-true-wireless-horlurar-svart.jpg",
       "pricecheck": {
@@ -1352,59 +1196,33 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13835437#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "JBL Tune Beam 2 True Wireless hörlurar, vita",
+      "name": "Garmin Lily 2 smartwatch (2026), guld/kräm",
       "shop": "POWER",
-      "price_sek": 490,
-      "was_price_sek": 990,
-      "discount_note": "~51% off (490 vs 990 SEK)",
-      "url": "https://www.power.se/tv-och-ljud/horlurar/true-wireless-horlurar/jbl-tune-beam-2-true-wireless-horlurar-vita/p-3637810/",
-      "caveat": "POWER price (campaign 16/11-13/12); web stock 40",
+      "price_sek": 1699,
+      "was_price_sek": 3399,
+      "discount_note": "~50% off (1699 vs 3399 SEK)",
+      "url": "https://www.power.se/mobil-och-foto/smartwatch-och-wearables/smartwatch/garmin-lily-2-smartwatch-2026-guldkram/p-4213904/",
+      "caveat": "POWER price (campaign 20/11-30/11); web stock 143",
       "category": "electronics",
-      "image": "images/pw-jbl-tune-beam-2-true-wireless-horlurar-vita.jpg",
+      "image": "images/pw-garmin-lily-2-smartwatch-2026-guld-kram.jpg",
       "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 990,
-        "market_low_30d": 856,
-        "pre_hike_price": 590,
-        "pre_hike_month": "oktober",
-        "hike_date": "2026-10-05",
-        "sale_start": "2026-11-16",
-        "real_discount_pct": 16.9,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=13835432#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "TCL 98\" RM7L / 4K / RGB Mini-LED / 144Hz / Smart TV",
-      "shop": "Webhallen",
-      "price_sek": 24990,
-      "was_price_sek": 99990,
-      "discount_note": "~75% off (24990 vs 99990 SEK)",
-      "url": "https://www.webhallen.com/se/product/397760",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": "images/wh-tcl-98-rm7l-4k-rgb-mini-led-144hz-smart-tv.jpg",
-      "pricecheck": {
-        "status": "unknown",
-        "store_low_30d": null,
-        "market_low_30d": null,
+        "status": "suspect",
+        "store_low_30d": 3248,
+        "market_low_30d": 2758,
         "pre_hike_price": null,
         "pre_hike_month": null,
         "hike_date": null,
-        "sale_start": null,
+        "sale_start": "2026-11-16",
         "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
+        "confidence": "medium",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13087638#statistics",
+        "reason": "other_variant",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1430,7 +1248,33 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16687138#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "TCL 98\" 98C8L / 4K / SQD-Mini LED / 144Hz / Google Tv",
+      "shop": "Webhallen",
+      "price_sek": 37990,
+      "was_price_sek": 139990,
+      "discount_note": "~73% off (37990 vs 139990 SEK)",
+      "url": "https://www.webhallen.com/se/product/397748",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
+      "category": "electronics",
+      "image": "images/wh-tcl-98-98c8l-4k-sqd-mini-led-144hz-google-tv.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": null,
+        "history_url": null,
+        "reason": "no_match",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1446,7 +1290,7 @@
       "pricecheck": {
         "status": "ok",
         "store_low_30d": 489,
-        "market_low_30d": 173,
+        "market_low_30d": null,
         "pre_hike_price": null,
         "pre_hike_month": null,
         "hike_date": null,
@@ -1456,7 +1300,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=3853925#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1482,33 +1326,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=14931928#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Mini Projector MPR 500",
-      "shop": "Webhallen",
-      "price_sek": 499,
-      "was_price_sek": 1490,
-      "discount_note": "~67% off (499 vs 1490 SEK)",
-      "url": "https://www.webhallen.com/se/product/402052",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": null,
-      "pricecheck": {
-        "status": "unknown",
-        "store_low_30d": null,
-        "market_low_30d": null,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": null,
-        "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1534,7 +1352,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=7256656#statistics",
         "reason": "partial_history",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1560,7 +1378,33 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15508926#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "TCL 85\" 85C8L / 4K / SQD-Mini LED / 144Hz / Google Tv",
+      "shop": "Webhallen",
+      "price_sek": 26990,
+      "was_price_sek": 74990,
+      "discount_note": "~64% off (26990 vs 74990 SEK)",
+      "url": "https://www.webhallen.com/se/product/397765",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
+      "category": "electronics",
+      "image": "images/wh-tcl-85-85c8l-4k-sqd-mini-led-144hz-google-tv.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 74990,
+        "market_low_30d": 27990,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-16",
+        "real_discount_pct": 64.0,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16700111#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1586,59 +1430,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16504075#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "LG NS70TR Soundbar 5.1.1 Dolby Atmos med bakre högtalare",
-      "shop": "Webhallen",
-      "price_sek": 3290,
-      "was_price_sek": 8990,
-      "discount_note": "~63% off (3290 vs 8990 SEK)",
-      "url": "https://www.webhallen.com/se/product/369420",
-      "caveat": "Webhallen campaign price until 2026-11-29; max 2 per customer",
-      "category": "electronics",
-      "image": "images/1O0KaO4_JGw-dFXWAo9GZA4zb8lOYvm9d.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 8990,
-        "market_low_30d": 3499,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-02",
-        "real_discount_pct": 63.4,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=13546026#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "TCL 85\" 85T8D / 4K / QD-Mini LED / 144Hz / Google Tv",
-      "shop": "Webhallen",
-      "price_sek": 12990,
-      "was_price_sek": 34990,
-      "discount_note": "~63% off (12990 vs 34990 SEK)",
-      "url": "https://www.webhallen.com/se/product/397746",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": "images/wh-tcl-85-85t8d-4k-qd-mini-led-144hz-google-tv.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 34990,
-        "market_low_30d": 34990,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-13",
-        "real_discount_pct": 62.9,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=14602427#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1664,7 +1456,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15291442#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1690,7 +1482,59 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=14558020#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "TCL 50\" 50Q6C / 4K / QD-Mini-LED / 144Hz / Google Tv",
+      "shop": "Webhallen",
+      "price_sek": 6990,
+      "was_price_sek": 17990,
+      "discount_note": "~61% off (6990 vs 17990 SEK)",
+      "url": "https://www.webhallen.com/se/product/397747",
+      "caveat": "Webhallen campaign price until 2026-12-17; max 2 per customer",
+      "category": "electronics",
+      "image": "images/wh-tcl-50-50q6c-4k-qd-mini-led-144hz-google-tv.jpg",
+      "pricecheck": {
+        "status": "raised_before_sale",
+        "store_low_30d": 17990,
+        "market_low_30d": 6701,
+        "pre_hike_price": 7490,
+        "pre_hike_month": "oktober",
+        "hike_date": "2026-10-12",
+        "sale_start": "2026-11-20",
+        "real_discount_pct": 6.7,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=15567717#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "TCL 55\" 55C8L / 4K / SQD-Mini LED / 144Hz / Google Tv",
+      "shop": "Webhallen",
+      "price_sek": 12990,
+      "was_price_sek": 32990,
+      "discount_note": "~61% off (12990 vs 32990 SEK)",
+      "url": "https://www.webhallen.com/se/product/397759",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
+      "category": "electronics",
+      "image": "images/wh-tcl-55-55c8l-4k-sqd-mini-led-144hz-google-tv.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 32990,
+        "market_low_30d": 11990,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-16",
+        "real_discount_pct": 60.6,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16504057#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1716,33 +1560,33 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13855605#statistics",
         "reason": "partial_history",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "TCL 65\" 65C8L / 4K / SQD-Mini LED / 144Hz / Google Tv",
+      "name": "Hisense 55\" E8S / Mini-LED / Smart TV (2026)",
       "shop": "Webhallen",
-      "price_sek": 15990,
-      "was_price_sek": 39990,
-      "discount_note": "~60% off (15990 vs 39990 SEK)",
-      "url": "https://www.webhallen.com/se/product/397756",
+      "price_sek": 6490,
+      "was_price_sek": 15990,
+      "discount_note": "~59% off (6490 vs 15990 SEK)",
+      "url": "https://www.webhallen.com/se/product/398728",
       "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "electronics",
-      "image": "images/wh-tcl-65-65c8l-4k-sqd-mini-led-144hz-google-tv.jpg",
+      "image": "images/wh-hisense-55-e8s-mini-led-smart-tv-2026.jpg",
       "pricecheck": {
         "status": "ok",
-        "store_low_30d": 39990,
-        "market_low_30d": 14990,
+        "store_low_30d": 15990,
+        "market_low_30d": 6763,
         "pre_hike_price": null,
         "pre_hike_month": null,
         "hike_date": null,
-        "sale_start": "2026-11-16",
-        "real_discount_pct": 60.0,
+        "sale_start": "2026-11-11",
+        "real_discount_pct": 59.4,
         "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=16651831#statistics",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16591657#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1768,7 +1612,7 @@
         "history_url": null,
         "reason": "uncertain_match",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1794,7 +1638,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13545985#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1820,7 +1664,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=4805874#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1846,7 +1690,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15011839#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1872,37 +1716,11 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13390356#statistics",
         "reason": "partial_history",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "Logitech G305 Lightspeed - White",
-      "shop": "Webhallen",
-      "price_sek": 299,
-      "was_price_sek": 699,
-      "discount_note": "~57% off (299 vs 699 SEK)",
-      "url": "https://www.webhallen.com/se/product/287417",
-      "caveat": "Webhallen campaign price until 2026-12-01; max 2 per customer",
-      "category": "computers",
-      "image": "images/1qJRgbvKbIWIyNLqTRYZphTplk9n1b61j.jpg",
-      "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 699,
-        "market_low_30d": 399,
-        "pre_hike_price": 299,
-        "pre_hike_month": "oktober",
-        "hike_date": "2026-10-02",
-        "sale_start": "2026-11-12",
-        "real_discount_pct": 0.0,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=4805874#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Philips 65\" PQS8601 / 4K / QLED / Ambilight / Titan OS",
+      "name": "Philips 65'' PQS8601 4K Ambilight QLED Smart TV (2026)",
       "shop": "Webhallen",
       "price_sek": 6990,
       "was_price_sek": 15990,
@@ -1924,7 +1742,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16689166#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1950,7 +1768,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16696771#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -1976,7 +1794,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=14642444#statistics",
         "reason": "partial_history",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2002,7 +1820,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16586012#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2028,33 +1846,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13546012#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Varmilo VPT109 Ink Rhyme V3 Gateron G Pro 3.0 - Red",
-      "shop": "Webhallen",
-      "price_sek": 999,
-      "was_price_sek": 2190,
-      "discount_note": "~54% off (999 vs 2190 SEK)",
-      "url": "https://www.webhallen.com/se/product/373636",
-      "caveat": "Webhallen campaign price until 2026-12-16; max 2 per customer",
-      "category": "computers",
-      "image": "images/wh-varmilo-vpt109-ink-rhyme-v3-gateron-g-pro-3-0-red.jpg",
-      "pricecheck": {
-        "status": "unknown",
-        "store_low_30d": null,
-        "market_low_30d": null,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": null,
-        "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2080,33 +1872,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=5949143#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Pulsar X2 CrazyLight Wireless Gaming Mouse - Jet Black",
-      "shop": "Webhallen",
-      "price_sek": 799,
-      "was_price_sek": 1690,
-      "discount_note": "~53% off (799 vs 1690 SEK)",
-      "url": "https://www.webhallen.com/se/product/386305",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "computers",
-      "image": "images/1UU-JnINtaVJNnNCigEiUn88ds4cY2eq-.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 1690,
-        "market_low_30d": 799,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-11",
-        "real_discount_pct": 52.7,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=14444146#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2132,33 +1898,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16373878#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Samsung Galaxy Watch8 40mm BT - Graphite",
-      "shop": "Webhallen",
-      "price_sek": 1690,
-      "was_price_sek": 3590,
-      "discount_note": "~53% off (1690 vs 3590 SEK)",
-      "url": "https://www.webhallen.com/se/product/386839",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": "images/1XRjYrAbudFh4Xw_D6gLt7hNsO33YqzdF.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 3590,
-        "market_low_30d": 1649,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-13",
-        "real_discount_pct": 52.9,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=14886121#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2184,189 +1924,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=14886121#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Xplora - XGO3 Gen2 Rosa",
-      "shop": "Webhallen",
-      "price_sek": 890,
-      "was_price_sek": 1890,
-      "discount_note": "~53% off (890 vs 1890 SEK)",
-      "url": "https://www.webhallen.com/se/product/385010",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": "images/wh-xplora-xgo3-gen2-rosa.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 1890,
-        "market_low_30d": 1606,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-09",
-        "real_discount_pct": 52.9,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=14356560#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Pulsar X2 CrazyLight Wireless Gaming Mouse - Aqua Zest",
-      "shop": "Webhallen",
-      "price_sek": 799,
-      "was_price_sek": 1690,
-      "discount_note": "~53% off (799 vs 1690 SEK)",
-      "url": "https://www.webhallen.com/se/product/386303",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "computers",
-      "image": "images/1G-Xy53GwdihEuQmeTCsjCBAivchJa0Xf.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 1690,
-        "market_low_30d": 799,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-11",
-        "real_discount_pct": 52.7,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=14444146#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "JBL Live 770NC - Black",
-      "shop": "Webhallen",
-      "price_sek": 790,
-      "was_price_sek": 1690,
-      "discount_note": "~53% off (790 vs 1690 SEK)",
-      "url": "https://www.webhallen.com/se/product/370218",
-      "caveat": "Webhallen campaign price until 2026-12-13; max 2 per customer",
-      "category": "electronics",
-      "image": "images/wh-jbl-live-770nc-black.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 1690,
-        "market_low_30d": 990,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-16",
-        "real_discount_pct": 53.3,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=11992082#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "JBL Live Beam 4 - Black",
-      "shop": "Webhallen",
-      "price_sek": 990,
-      "was_price_sek": 2100,
-      "discount_note": "~53% off (990 vs 2100 SEK)",
-      "url": "https://www.webhallen.com/se/product/395565",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": "images/wh-jbl-live-beam-4-black.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 2100,
-        "market_low_30d": 1490,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-16",
-        "real_discount_pct": 52.9,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=16586752#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "TCL 55\" 55T8D / 4K / QD-Mini LED / 144Hz / Google Tv",
-      "shop": "Webhallen",
-      "price_sek": 6990,
-      "was_price_sek": 14990,
-      "discount_note": "~53% off (6990 vs 14990 SEK)",
-      "url": "https://www.webhallen.com/se/product/397745",
-      "caveat": "Webhallen campaign price until 2026-11-29; max 2 per customer",
-      "category": "electronics",
-      "image": "images/1YmCtbwRDIU8rt-ogW9mrC75USdkSZCE7.jpg",
-      "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 14990,
-        "market_low_30d": 8990,
-        "pre_hike_price": 7990,
-        "pre_hike_month": "september",
-        "hike_date": "2026-09-14",
-        "sale_start": "2026-11-02",
-        "real_discount_pct": 12.5,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=16503712#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "TCL 65\" 65Q6C / 4K / QD-Mini-LED / 144Hz / Google Tv",
-      "shop": "Webhallen",
-      "price_sek": 9490,
-      "was_price_sek": 19990,
-      "discount_note": "~53% off (9490 vs 19990 SEK)",
-      "url": "https://www.webhallen.com/se/product/397749",
-      "caveat": "Webhallen campaign price until 2026-12-17; max 2 per customer",
-      "category": "electronics",
-      "image": "images/wh-tcl-65-65q6c-4k-qd-mini-led-144hz-google-tv.jpg",
-      "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 19990,
-        "market_low_30d": 12343,
-        "pre_hike_price": 9990,
-        "pre_hike_month": "oktober",
-        "hike_date": "2026-10-12",
-        "sale_start": "2026-11-20",
-        "real_discount_pct": 5.0,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=14558046#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Philips 65\" PUS8001 / 4K / LED / Ambilight / Titan OS",
-      "shop": "Webhallen",
-      "price_sek": 6790,
-      "was_price_sek": 14490,
-      "discount_note": "~53% off (6790 vs 14490 SEK)",
-      "url": "https://www.webhallen.com/se/product/398858",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": "images/1yb_ArHwa87FBY84KKborEcjGRjL2pk7-.jpg",
-      "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 14490,
-        "market_low_30d": 6990,
-        "pre_hike_price": 7990,
-        "pre_hike_month": "oktober",
-        "hike_date": "2026-10-05",
-        "sale_start": "2026-11-05",
-        "real_discount_pct": 15.0,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=14625881#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2392,7 +1950,189 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15682674#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Pulsar X2 CrazyLight Wireless Gaming Mouse - Sunset Haze",
+      "shop": "Webhallen",
+      "price_sek": 799,
+      "was_price_sek": 1690,
+      "discount_note": "~53% off (799 vs 1690 SEK)",
+      "url": "https://www.webhallen.com/se/product/386301",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
+      "category": "computers",
+      "image": "images/wh-pulsar-x2-crazylight-wireless-gaming-mouse-sunset-haze.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 1690,
+        "market_low_30d": 799,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-11",
+        "real_discount_pct": 52.7,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=14444146#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Pulsar X2 CrazyLight Wireless Gaming Mouse - Aqua Zest",
+      "shop": "Webhallen",
+      "price_sek": 799,
+      "was_price_sek": 1690,
+      "discount_note": "~53% off (799 vs 1690 SEK)",
+      "url": "https://www.webhallen.com/se/product/386303",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
+      "category": "computers",
+      "image": "images/1G-Xy53GwdihEuQmeTCsjCBAivchJa0Xf.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 1690,
+        "market_low_30d": 799,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-11",
+        "real_discount_pct": 52.7,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=14444146#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "JBL Live 770NC - Black",
+      "shop": "Webhallen",
+      "price_sek": 790,
+      "was_price_sek": 1690,
+      "discount_note": "~53% off (790 vs 1690 SEK)",
+      "url": "https://www.webhallen.com/se/product/370218",
+      "caveat": "Webhallen campaign price until 2026-12-13; max 2 per customer",
+      "category": "electronics",
+      "image": "images/wh-jbl-live-770nc-black.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 1690,
+        "market_low_30d": 990,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-16",
+        "real_discount_pct": 53.3,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=11992082#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "JBL Live Beam 4 - Black",
+      "shop": "Webhallen",
+      "price_sek": 990,
+      "was_price_sek": 2100,
+      "discount_note": "~53% off (990 vs 2100 SEK)",
+      "url": "https://www.webhallen.com/se/product/395565",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
+      "category": "electronics",
+      "image": "images/wh-jbl-live-beam-4-black.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 2100,
+        "market_low_30d": 1490,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-16",
+        "real_discount_pct": 52.9,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16586752#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "TCL 65\" 65Q6C / 4K / QD-Mini-LED / 144Hz / Google Tv",
+      "shop": "Webhallen",
+      "price_sek": 9490,
+      "was_price_sek": 19990,
+      "discount_note": "~53% off (9490 vs 19990 SEK)",
+      "url": "https://www.webhallen.com/se/product/397749",
+      "caveat": "Webhallen campaign price until 2026-12-17; max 2 per customer",
+      "category": "electronics",
+      "image": "images/wh-tcl-65-65q6c-4k-qd-mini-led-144hz-google-tv.jpg",
+      "pricecheck": {
+        "status": "raised_before_sale",
+        "store_low_30d": 19990,
+        "market_low_30d": 12343,
+        "pre_hike_price": 9990,
+        "pre_hike_month": "oktober",
+        "hike_date": "2026-10-12",
+        "sale_start": "2026-11-20",
+        "real_discount_pct": 5.0,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=14558046#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "TCL 55\" 55T8D / 4K / QD-Mini LED / 144Hz / Google Tv",
+      "shop": "Webhallen",
+      "price_sek": 6990,
+      "was_price_sek": 14990,
+      "discount_note": "~53% off (6990 vs 14990 SEK)",
+      "url": "https://www.webhallen.com/se/product/397745",
+      "caveat": "Webhallen campaign price until 2026-11-29; max 2 per customer",
+      "category": "electronics",
+      "image": "images/1YmCtbwRDIU8rt-ogW9mrC75USdkSZCE7.jpg",
+      "pricecheck": {
+        "status": "raised_before_sale",
+        "store_low_30d": 14990,
+        "market_low_30d": 8990,
+        "pre_hike_price": 7990,
+        "pre_hike_month": "september",
+        "hike_date": "2026-09-14",
+        "sale_start": "2026-11-02",
+        "real_discount_pct": 12.5,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16503712#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Philips 65\" PUS8001 / 4K / LED / Ambilight / Titan OS",
+      "shop": "Webhallen",
+      "price_sek": 6790,
+      "was_price_sek": 14490,
+      "discount_note": "~53% off (6790 vs 14490 SEK)",
+      "url": "https://www.webhallen.com/se/product/398858",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
+      "category": "electronics",
+      "image": "images/1yb_ArHwa87FBY84KKborEcjGRjL2pk7-.jpg",
+      "pricecheck": {
+        "status": "raised_before_sale",
+        "store_low_30d": 14490,
+        "market_low_30d": 6990,
+        "pre_hike_price": 7990,
+        "pre_hike_month": "oktober",
+        "hike_date": "2026-10-05",
+        "sale_start": "2026-11-05",
+        "real_discount_pct": 15.0,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=14625881#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2408,7 +2148,7 @@
       "pricecheck": {
         "status": "ok",
         "store_low_30d": 1499,
-        "market_low_30d": 699,
+        "market_low_30d": null,
         "pre_hike_price": null,
         "pre_hike_month": null,
         "hike_date": null,
@@ -2418,7 +2158,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=5494912#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2444,33 +2184,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=5494912#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Logitech G432 Gaming Headset / Kabelansluten",
-      "shop": "Webhallen",
-      "price_sek": 499,
-      "was_price_sek": 1049,
-      "discount_note": "~52% off (499 vs 1049 SEK)",
-      "url": "https://www.webhallen.com/se/product/297046",
-      "caveat": "Webhallen campaign price until 2026-12-01; max 2 per customer",
-      "category": "computers",
-      "image": "images/wh-logitech-g432-gaming-headset-kabelansluten.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 1049,
-        "market_low_30d": 461,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-12",
-        "real_discount_pct": 52.4,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=5044457#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2496,7 +2210,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15303304#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2522,59 +2236,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13801648#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Hisense 75\" U7S PRO / 165Hz / MiniLED / Hi-QLED / 3000 nits",
-      "shop": "Webhallen",
-      "price_sek": 15990,
-      "was_price_sek": 32990,
-      "discount_note": "~52% off (15990 vs 32990 SEK)",
-      "url": "https://www.webhallen.com/se/product/398726",
-      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "electronics",
-      "image": "images/wh-hisense-75-u7s-pro-165hz-miniled-hi-qled-3000-nits.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 32990,
-        "market_low_30d": 19172,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-11",
-        "real_discount_pct": 51.5,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=16591663#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "JBL Tune Beam 2 - Vit",
-      "shop": "Webhallen",
-      "price_sek": 490,
-      "was_price_sek": 990,
-      "discount_note": "~51% off (490 vs 990 SEK)",
-      "url": "https://www.webhallen.com/se/product/372588",
-      "caveat": "Webhallen campaign price until 2026-12-13; max 2 per customer",
-      "category": "electronics",
-      "image": "images/wh-jbl-tune-beam-2-vit.jpg",
-      "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 990,
-        "market_low_30d": 856,
-        "pre_hike_price": 590,
-        "pre_hike_month": "oktober",
-        "hike_date": "2026-10-05",
-        "sale_start": "2026-11-16",
-        "real_discount_pct": 16.9,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=13835432#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2584,23 +2246,23 @@
       "was_price_sek": 8499,
       "discount_note": "~51% off (4190 vs 8499 SEK)",
       "url": "https://www.webhallen.com/se/product/401164",
-      "caveat": "Webhallen campaign price until 2026-11-29; max 2 per customer",
+      "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "household",
       "image": null,
       "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 8499,
-        "market_low_30d": 4199,
+        "status": "inflated",
+        "store_low_30d": 4190,
+        "market_low_30d": 4190,
         "pre_hike_price": null,
         "pre_hike_month": null,
         "hike_date": null,
-        "sale_start": "2026-11-09",
-        "real_discount_pct": 50.7,
+        "sale_start": "2026-11-23",
+        "real_discount_pct": 0.0,
         "confidence": "high",
         "history_url": "https://www.prisjakt.nu/produkt.php?p=16738394#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2626,7 +2288,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13835432#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2652,7 +2314,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=13151257#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2678,7 +2340,7 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=15507850#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2704,7 +2366,7 @@
         "history_url": null,
         "reason": "uncertain_match",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2730,15 +2392,15 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=6031767#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
       "name": "Siemens EQ6 plus s100 Helautomatisk Kaffemaskin - Diamond titanium metallic",
       "shop": "Webhallen",
-      "price_sek": 4999,
+      "price_sek": 4990,
       "was_price_sek": 9990,
-      "discount_note": "~50% off (4999 vs 9990 SEK)",
+      "discount_note": "~50% off (4990 vs 9990 SEK)",
       "url": "https://www.webhallen.com/se/product/402185",
       "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
       "category": "household",
@@ -2751,12 +2413,12 @@
         "pre_hike_month": null,
         "hike_date": null,
         "sale_start": "2026-11-12",
-        "real_discount_pct": 50.0,
+        "real_discount_pct": 50.1,
         "confidence": "high",
         "history_url": "https://www.prisjakt.nu/produkt.php?p=4815333#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2782,33 +2444,709 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=14678731#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "Asus ROG Pelta",
+      "name": "Roomba 115 Combo - Vit",
       "shop": "Webhallen",
-      "price_sek": 849,
-      "was_price_sek": 1690,
-      "discount_note": "~50% off (849 vs 1690 SEK)",
-      "url": "https://www.webhallen.com/se/product/385768",
+      "price_sek": 1390,
+      "was_price_sek": 2799,
+      "discount_note": "~50% off (1390 vs 2799 SEK)",
+      "url": "https://www.webhallen.com/se/product/403244",
       "caveat": "Webhallen campaign price until 2026-11-30; max 2 per customer",
-      "category": "computers",
-      "image": "images/wh-asus-rog-pelta.jpg",
+      "category": "household",
+      "image": null,
       "pricecheck": {
         "status": "ok",
-        "store_low_30d": 1690,
-        "market_low_30d": 849,
+        "store_low_30d": 2799,
+        "market_low_30d": 1428,
         "pre_hike_price": null,
         "pre_hike_month": null,
         "hike_date": null,
         "sale_start": "2026-11-12",
-        "real_discount_pct": 49.8,
+        "real_discount_pct": 50.3,
         "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=14268025#statistics",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16660503#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Glorious GMMK 2 Compact 65% - Fox switch, NO-Layout - Pink",
+      "shop": "Webhallen",
+      "price_sek": 739,
+      "was_price_sek": 1479,
+      "discount_note": "~50% off (739 vs 1479 SEK)",
+      "url": "https://www.webhallen.com/se/product/382426",
+      "caveat": "Webhallen campaign price until 2026-12-06; max 2 per customer",
+      "category": "computers",
+      "image": "images/wh-glorious-gmmk-2-compact-65-fox-switch-no-layout-pink.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": 1479,
+        "market_low_30d": 1479,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-12",
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=6036023#statistics",
+        "reason": "partial_history",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Varmilo VPT109 Charcoal V3 Gateron G Pro 3.0 - Brown",
+      "shop": "Webhallen",
+      "price_sek": 999,
+      "was_price_sek": 1999,
+      "discount_note": "~50% off (999 vs 1999 SEK)",
+      "url": "https://www.webhallen.com/se/product/373633",
+      "caveat": "Webhallen campaign price until 2026-12-16; max 2 per customer",
+      "category": "computers",
+      "image": "images/wh-varmilo-vpt109-charcoal-v3-gateron-g-pro-3-0-brown.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 1999,
+        "market_low_30d": 1999,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-18",
+        "real_discount_pct": 50.0,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13799690#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "TCL 85T8D",
+      "shop": "NetOnNet",
+      "price_sek": 12990,
+      "was_price_sek": 34990,
+      "discount_note": "~63% off (12990 vs 34990 SEK)",
+      "url": "https://www.netonnet.se/art/tv/75tumochstorre/tcl-85t8d/1065154.16252/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-tcl-85t8d.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 34990,
+        "market_low_30d": 34990,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-13",
+        "real_discount_pct": 62.9,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=14602427#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Philips 65PQS8601/12",
+      "shop": "NetOnNet",
+      "price_sek": 6990,
+      "was_price_sek": 15990,
+      "discount_note": "~56% off (6990 vs 15990 SEK)",
+      "url": "https://www.netonnet.se/art/tv/56-70tum/philips-65pqs860112/1065993.9119/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-philips-65pqs8601-12.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 15990,
+        "market_low_30d": 15990,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-09",
+        "real_discount_pct": 56.3,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16689166#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "ASUS ASUS RT-BE90U",
+      "shop": "NetOnNet",
+      "price_sek": 1790,
+      "was_price_sek": 3990,
+      "discount_note": "~55% off (1790 vs 3990 SEK)",
+      "url": "https://www.netonnet.se/art/dator-surfplatta/natverk/router/asus-asus-rt-be90u/1068375.8935/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "computers",
+      "image": "images/nn-asus-asus-rt-be90u.png",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": null,
+        "history_url": null,
+        "reason": "no_match",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Samsung TQ100QN80HUXXC",
+      "shop": "NetOnNet",
+      "price_sek": 22990,
+      "was_price_sek": 49990,
+      "discount_note": "~54% off (22990 vs 49990 SEK)",
+      "url": "https://www.netonnet.se/art/tv/75tumochstorre/samsung-tq100qn80huxxc/1066971.16252/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-samsung-tq100qn80huxxc.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 49990,
+        "market_low_30d": 49990,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-16",
+        "real_discount_pct": 54.0,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16656643#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Samsung Galaxy Watch8 40mm BT Silver",
+      "shop": "NetOnNet",
+      "price_sek": 1690,
+      "was_price_sek": 3587,
+      "discount_note": "~53% off (1690 vs 3587 SEK)",
+      "url": "https://www.netonnet.se/art/mobil-smartwatch/smartwatch/samsung-smartwatch/samsung-galaxy-watch8-40mm-bt-silver/1056978.0/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-samsung-galaxy-watch8-40mm-bt-silver.webp",
+      "pricecheck": {
+        "status": "inflated",
+        "store_low_30d": 2690,
+        "market_low_30d": 322,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-03",
+        "real_discount_pct": 37.2,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=14886121#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Roborock Saros 20 Sonic Black",
+      "shop": "NetOnNet",
+      "price_sek": 7490,
+      "was_price_sek": 15990,
+      "discount_note": "~53% off (7490 vs 15990 SEK)",
+      "url": "https://www.netonnet.se/art/hem-fritid/dammsugare-rengoring/robotdammsugare/roborock-saros-20-sonic-black/1063184.9263/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-roborock-saros-20-sonic-black.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 15990,
+        "market_low_30d": 7490,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-09",
+        "real_discount_pct": 53.2,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16373878#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "JBL Live Beam 4 - Green",
+      "shop": "NetOnNet",
+      "price_sek": 990,
+      "was_price_sek": 2100,
+      "discount_note": "~53% off (990 vs 2100 SEK)",
+      "url": "https://www.netonnet.se/art/ljud/horlurar/in-ear/jbl-live-beam-4-green/1063651.9292/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-jbl-live-beam-4-green.png",
+      "pricecheck": {
+        "status": "suspect",
+        "store_low_30d": 1490,
+        "market_low_30d": 1490,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-10-17",
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16586752#statistics",
+        "reason": "other_variant",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Tefal X-Pert 7.60 Animal",
+      "shop": "NetOnNet",
+      "price_sek": 1190,
+      "was_price_sek": 2490,
+      "discount_note": "~52% off (1190 vs 2490 SEK)",
+      "url": "https://www.netonnet.se/art/hem-fritid/dammsugare-rengoring/skaftdammsugare/tefal-x-pert-7-60-animal/1059566.9265/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-tefal-x-pert-7-60-animal.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 2490,
+        "market_low_30d": 1490,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-12",
+        "real_discount_pct": 52.2,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=15303304#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "JBL Tune Beam 2 - Black",
+      "shop": "NetOnNet",
+      "price_sek": 490,
+      "was_price_sek": 990,
+      "discount_note": "~51% off (490 vs 990 SEK)",
+      "url": "https://www.netonnet.se/art/ljud/horlurar/in-ear/jbl-tune-beam-2-black/1053386.9292/",
+      "caveat": "NetOnNet price until 2026-12-16",
+      "category": "electronics",
+      "image": "images/nn-jbl-tune-beam-2-black.webp",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 990,
+        "market_low_30d": 856,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-16",
+        "real_discount_pct": 50.5,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13835432#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Braun Shaver NEVO15000C",
+      "shop": "NetOnNet",
+      "price_sek": 4190,
+      "was_price_sek": 8499,
+      "discount_note": "~51% off (4190 vs 8499 SEK)",
+      "url": "https://www.netonnet.se/art/personvard/harborttagning-rakning/rakapparat/braun-shaver-nevo15000c/1067353.9135/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-braun-shaver-nevo15000c.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": null,
+        "history_url": null,
+        "reason": "no_match",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "JBL SB510",
+      "shop": "NetOnNet",
+      "price_sek": 990,
+      "was_price_sek": 1990,
+      "discount_note": "~50% off (990 vs 1990 SEK)",
+      "url": "https://www.netonnet.se/art/ljud/hogtalare/soundbar/jbl-sb510/1058930.13774/",
+      "caveat": "NetOnNet price until 2026-12-14",
+      "category": "electronics",
+      "image": "images/nn-jbl-sb510.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 1990,
+        "market_low_30d": 1490,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-16",
+        "real_discount_pct": 50.3,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13429859#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Cylinda FT911G3104A",
+      "shop": "NetOnNet",
+      "price_sek": 3990,
+      "was_price_sek": 7990,
+      "discount_note": "~50% off (3990 vs 7990 SEK)",
+      "url": "https://www.netonnet.se/art/vitvaror/tvattmaskin/frontmatad-tvattmaskin/cylinda-ft911g3104a/1066132.17968/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-cylinda-ft911g3104a.jpg",
+      "pricecheck": {
+        "status": "raised_before_sale",
+        "store_low_30d": 7990,
+        "market_low_30d": 6490,
+        "pre_hike_price": 4790,
+        "pre_hike_month": "september",
+        "hike_date": "2026-09-21",
+        "sale_start": "2026-11-09",
+        "real_discount_pct": 16.7,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=15398536#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "TCL S60K",
+      "shop": "NetOnNet",
+      "price_sek": 2490,
+      "was_price_sek": 4990,
+      "discount_note": "~50% off (2490 vs 4990 SEK)",
+      "url": "https://www.netonnet.se/art/ljud/hogtalare/soundbar/tcl-s60k/1067288.13774/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-tcl-s60k.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": 4990,
+        "market_low_30d": 1767,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-16",
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16951146#statistics",
+        "reason": "partial_history",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Anker Soundcore Sleep A30 - White",
+      "shop": "NetOnNet",
+      "price_sek": 1490,
+      "was_price_sek": 2990,
+      "discount_note": "~50% off (1490 vs 2990 SEK)",
+      "url": "https://www.netonnet.se/art/ljud/horlurar/in-ear/anker-soundcore-sleep-a30-white/1068963.9292/",
+      "caveat": "NetOnNet price until 2026-11-29",
+      "category": "electronics",
+      "image": "images/nn-anker-soundcore-sleep-a30-white.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=14888590#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Philips NA352/00",
+      "shop": "NetOnNet",
+      "price_sek": 990,
+      "was_price_sek": 1890,
+      "discount_note": "~48% off (990 vs 1890 SEK)",
+      "url": "https://www.netonnet.se/art/hem-fritid/koksmaskiner/airfryer/philips-na35200/1033163.18426/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-philips-na352-00.webp",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 1890,
+        "market_low_30d": 1310,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-12",
+        "real_discount_pct": 47.6,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13151257#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Samsung TQ75QN82HAUXXC",
+      "shop": "NetOnNet",
+      "price_sek": 12990,
+      "was_price_sek": 24990,
+      "discount_note": "~48% off (12990 vs 24990 SEK)",
+      "url": "https://www.netonnet.se/art/tv/75tumochstorre/samsung-tq75qn82hauxxc/1064099.16252/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-samsung-tq75qn82hauxxc.png",
+      "pricecheck": {
+        "status": "raised_before_sale",
+        "store_low_30d": 24990,
+        "market_low_30d": 24990,
+        "pre_hike_price": 14990,
+        "pre_hike_month": "september",
+        "hike_date": "2026-09-07",
+        "sale_start": "2026-11-16",
+        "real_discount_pct": 13.3,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16694954#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Philips i9000 Prestige Ultra Shaver XP9400/31",
+      "shop": "NetOnNet",
+      "price_sek": 2490,
+      "was_price_sek": 4690,
+      "discount_note": "~47% off (2490 vs 4690 SEK)",
+      "url": "https://www.netonnet.se/art/personvard/harborttagning-rakning/rakapparat/philips-i9000-prestige-ultra-shaver-xp940031/1054820.0/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-philips-i9000-prestige-ultra-shaver-xp9400-31.webp",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 4690,
+        "market_low_30d": 2599,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-12",
+        "real_discount_pct": 46.9,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=15396018#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Samsung Galaxy Tab A11+ Wifi (128GB) Grey",
+      "shop": "NetOnNet",
+      "price_sek": 1990,
+      "was_price_sek": 3790,
+      "discount_note": "~47% off (1990 vs 3790 SEK)",
+      "url": "https://www.netonnet.se/art/dator-surfplatta/surfplattor/android/samsung-galaxy-tab-a11-wifi-128gb-grey/1060457.21492/",
+      "caveat": "NetOnNet price until 2026-11-29",
+      "category": "computers",
+      "image": "images/nn-samsung-galaxy-tab-a11-wifi-128gb-grey.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 3790,
+        "market_low_30d": 379,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-09",
+        "real_discount_pct": 47.5,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=15795942#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Google Google Pixel 10a 128G Fog",
+      "shop": "NetOnNet",
+      "price_sek": 3990,
+      "was_price_sek": 7490,
+      "discount_note": "~47% off (3990 vs 7490 SEK)",
+      "url": "https://www.netonnet.se/art/mobil-smartwatch/mobiltelefoner/google-pixel/google-google-pixel-10a-128g-fog/1062440.21595/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-google-google-pixel-10a-128g-fog.jpg",
+      "pricecheck": {
+        "status": "ok",
+        "store_low_30d": 7490,
+        "market_low_30d": 4485,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": "2026-11-13",
+        "real_discount_pct": 46.7,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16169314#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Oral-B iO5 Matt Black/Quite White Duo, 1 Travel",
+      "shop": "NetOnNet",
+      "price_sek": 1490,
+      "was_price_sek": 2789,
+      "discount_note": "~47% off (1490 vs 2789 SEK)",
+      "url": "https://www.netonnet.se/art/personvard/eltandborste/oral-b-io5-matt-blackquite-white-duo-1-travel/1063587.9131/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-oral-b-io5-matt-black-quite-white-duo-1-travel.jpg",
+      "pricecheck": {
+        "status": "raised_before_sale",
+        "store_low_30d": 2789,
+        "market_low_30d": 1815.75,
+        "pre_hike_price": 1490,
+        "pre_hike_month": "oktober",
+        "hike_date": "2026-10-05",
+        "sale_start": "2026-11-09",
+        "real_discount_pct": 0.0,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=7197374#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Philips 65MLED901/12",
+      "shop": "NetOnNet",
+      "price_sek": 9490,
+      "was_price_sek": 17990,
+      "discount_note": "~47% off (9490 vs 17990 SEK)",
+      "url": "https://www.netonnet.se/art/tv/56-70tum/philips-65mled90112/1068883.9119/",
+      "caveat": "NetOnNet price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/nn-philips-65mled901-12.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": null,
+        "history_url": null,
+        "reason": "no_match",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Samsung RR39C7BG7WW/EF",
+      "shop": "NetOnNet",
+      "price_sek": 7490,
+      "was_price_sek": 13990,
+      "discount_note": "~46% off (7490 vs 13990 SEK)",
+      "url": "https://www.netonnet.se/art/vitvaror/kyl-frys/kylskap/samsung-rr39c7bg7wwef/1066857.17984/",
+      "caveat": "NetOnNet price until 2026-12-20",
+      "category": "electronics",
+      "image": "images/nn-samsung-rr39c7bg7ww-ef.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": null,
+        "history_url": null,
+        "reason": "no_match",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Dreame X50 Ultra-Black",
+      "shop": "NetOnNet",
+      "price_sek": 5990,
+      "was_price_sek": 10990,
+      "discount_note": "~45% off (5990 vs 10990 SEK)",
+      "url": "https://www.netonnet.se/art/hem-fritid/dammsugare-rengoring/robotdammsugare/dreame-x50-ultra-black/1059733.9263/",
+      "caveat": "NetOnNet price until 2026-11-29",
+      "category": "electronics",
+      "image": "images/nn-dreame-x50-ultra-black.webp",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": null,
+        "history_url": null,
+        "reason": "no_match",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Oral-B iO9 Duo Black Onyx/Rose Quartz, 1 Chargi",
+      "shop": "NetOnNet",
+      "price_sek": 2990,
+      "was_price_sek": 5399,
+      "discount_note": "~45% off (2990 vs 5399 SEK)",
+      "url": "https://www.netonnet.se/art/personvard/eltandborste/oral-b-io9-duo-black-onyxrose-quartz-1-chargi/1063583.9131/",
+      "caveat": "NetOnNet price until 2026-12-08",
+      "category": "electronics",
+      "image": "images/nn-oral-b-io9-duo-black-onyx-rose-quartz-1-chargi.jpg",
+      "pricecheck": {
+        "status": "raised_before_sale",
+        "store_low_30d": 5399,
+        "market_low_30d": 2999,
+        "pre_hike_price": 2990,
+        "pre_hike_month": "oktober",
+        "hike_date": "2026-10-05",
+        "sale_start": "2026-11-09",
+        "real_discount_pct": 0.0,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13659302#statistics",
+        "reason": null,
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -2834,71 +3172,19 @@
         "history_url": "https://www.prisjakt.nu/produkt.php?p=5274095#statistics",
         "reason": null,
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "Philips 65PUS8001/12",
-      "shop": "NetOnNet",
-      "price_sek": 6790,
-      "was_price_sek": 11490,
-      "discount_note": "~41% off (6790 vs 11490 SEK)",
-      "url": "https://www.netonnet.se/art/tv/56-70tum/philips-65pus800112/1065992.9119/",
-      "caveat": "NetOnNet price until 2026-11-30",
+      "name": "Philips 6000 Series in-ear-hörlurar med smart laddningsfodral",
+      "shop": "Kjell & Company",
+      "price_sek": 499,
+      "was_price_sek": 1790,
+      "discount_note": "~72% off (499 vs 1790 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/horlurar-headset/brusreducerande-horlurar/philips-6000-series-in-ear-horlurar-med-smart-laddningsfodral-p21435",
+      "caveat": "Kjell price until 2026-11-29",
       "category": "electronics",
-      "image": "images/1xbbMhwXmMrsk1yU8uQ484Ln3LiT_oYaY.jpg",
-      "pricecheck": {
-        "status": "unknown",
-        "store_low_30d": null,
-        "market_low_30d": null,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": null,
-        "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Logitech PRO X 2 SUPERSTRIKE",
-      "shop": "NetOnNet",
-      "price_sek": 1290,
-      "was_price_sek": 1999,
-      "discount_note": "~35% off (1290 vs 1999 SEK)",
-      "url": "https://www.netonnet.se/art/gaming/gamingmus/tradlos-mus/logitech-pro-x-2-superstrike/1062267.16955/",
-      "caveat": "NetOnNet price until 2026-12-01",
-      "category": "electronics",
-      "image": "images/1c75Q8bUOH7-aL-qHmbBCiKMe-T5yrcMY.jpg",
-      "pricecheck": {
-        "status": "ok",
-        "store_low_30d": 1999,
-        "market_low_30d": 1399,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-02",
-        "real_discount_pct": 35.5,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=16029953#statistics",
-        "reason": null,
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Acer ACER Aspire Go 15 AG15-42P (KOMP)(REUR)",
-      "shop": "NetOnNet",
-      "price_sek": 7990,
-      "was_price_sek": 11990,
-      "discount_note": "~33% off (7990 vs 11990 SEK)",
-      "url": "https://www.netonnet.se/art/dator-surfplatta/laptop/laptop-15-16-tum/acer-acer-aspire-go-15-ag15-42p-kompreur/1065386.8908/",
-      "caveat": "NetOnNet price until 2026-11-30",
-      "category": "electronics",
-      "image": "images/1LD2-OT3Zlhof0eVliGLb3DGAlkSQBzIA.png",
+      "image": "images/kj-philips-6000-series-in-ear-horlurar-med-smart-laddningsfodra.webp",
       "pricecheck": {
         "status": "unknown",
         "store_low_30d": null,
@@ -2912,71 +3198,19 @@
         "history_url": null,
         "reason": "uncertain_match",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "SteelSeries Arctis Nova Pro WL",
-      "shop": "NetOnNet",
-      "price_sek": 2499,
-      "was_price_sek": 3699,
-      "discount_note": "~32% off (2499 vs 3699 SEK)",
-      "url": "https://www.netonnet.se/art/gaming/gamingheadset/tradlost-headset/steelseries-arctis-nova-pro-wl/1064703.16957/",
-      "caveat": "NetOnNet price until 2026-11-30",
-      "category": "computers",
-      "image": "images/1ocZLR1JABu9vwsMjcJ4xRN80rAqRVw8u.png",
-      "pricecheck": {
-        "status": "suspect",
-        "store_low_30d": 2989,
-        "market_low_30d": 2590,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-01",
-        "real_discount_pct": null,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=6487101#statistics",
-        "reason": "other_variant",
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "SteelSeries Arctis Nova Pro WL",
-      "shop": "NetOnNet",
-      "price_sek": 2499,
-      "was_price_sek": 3699,
-      "discount_note": "~32% off (2499 vs 3699 SEK)",
-      "url": "https://www.netonnet.se/art/gaming/gamingheadset/tradlost-headset/steelseries-arctis-nova-pro-wl/1064707.16957/",
-      "caveat": "NetOnNet price until 2026-11-30",
-      "category": "computers",
-      "image": "images/1ocZLR1JABu9vwsMjcJ4xRN80rAqRVw8u.png",
-      "pricecheck": {
-        "status": "suspect",
-        "store_low_30d": 2989,
-        "market_low_30d": 2590,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": "2026-11-01",
-        "real_discount_pct": null,
-        "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=6487101#statistics",
-        "reason": "other_variant",
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "SteelSeries Arctis Nova 5 Wireless headset",
-      "shop": "NetOnNet",
-      "price_sek": 999,
-      "was_price_sek": 1449,
-      "discount_note": "~31% off (999 vs 1449 SEK)",
-      "url": "https://www.netonnet.se/art/gaming/gamingheadset/tradlost-headset/steelseries-arctis-nova-5-wireless-headset/1034023.16957/",
-      "caveat": "NetOnNet price until 2026-11-30",
-      "category": "computers",
-      "image": "images/1891tyCGvzl39ulCSVUcwQg1vtu_pqX9H.webp",
+      "name": "Nomadelic Solo 300 trådlösa in-ear-hörlurar med brusreducering Svart",
+      "shop": "Kjell & Company",
+      "price_sek": 199.9,
+      "was_price_sek": 499.9,
+      "discount_note": "~60% off (199.9 vs 499.9 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/horlurar-headset/tradlosa-horlurar/nomadelic-solo-300-tradlosa-in-ear-horlurar-med-brusreducering-svart-p24356",
+      "caveat": "Kjell Club member price (free membership) until 2026-11-29; non-member 499.9 kr",
+      "category": "electronics",
+      "image": "images/kj-nomadelic-solo-300-tradlosa-in-ear-horlurar-med-brusreduceri.webp",
       "pricecheck": {
         "status": "unknown",
         "store_low_30d": null,
@@ -2987,22 +3221,22 @@
         "sale_start": null,
         "real_discount_pct": null,
         "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=13500648#statistics",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13139707#statistics",
         "reason": "no_sale_start",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "Siemens ET611HE17E",
-      "shop": "NetOnNet",
-      "price_sek": 3290,
-      "was_price_sek": 4490,
-      "discount_note": "~27% off (3290 vs 4490 SEK)",
-      "url": "https://www.netonnet.se/art/vitvaror/hall/glaskeramikhall/siemens-et611he17e/1027869.18000/",
-      "caveat": "NetOnNet price until 2026-11-29",
+      "name": "Philips TAH6000 trådlösa over-ear-hörlurar med brusreducering Svart",
+      "shop": "Kjell & Company",
+      "price_sek": 399,
+      "was_price_sek": 999,
+      "discount_note": "~60% off (399 vs 999 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/horlurar-headset/tradlosa-horlurar/philips-tah6000-tradlosa-over-ear-horlurar-med-brusreducering-svart-p21437",
+      "caveat": "Kjell price until 2026-11-30",
       "category": "electronics",
-      "image": "images/162OdqMc63gyEUEGTjnVeD7sp7MRDjXyl.png",
+      "image": "images/kj-philips-tah6000-tradlosa-over-ear-horlurar-med-brusreducerin.webp",
       "pricecheck": {
         "status": "unknown",
         "store_low_30d": null,
@@ -3012,115 +3246,375 @@
         "hike_date": null,
         "sale_start": null,
         "real_discount_pct": null,
-        "confidence": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16381428#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Philips 5000 series trådlösa over-ear-hörlurar Vit",
+      "shop": "Kjell & Company",
+      "price_sek": 249,
+      "was_price_sek": 599,
+      "discount_note": "~58% off (249 vs 599 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/horlurar-headset/over-ear-horlurar/philips-5000-series-tradlosa-over-ear-horlurar-vit-p21468",
+      "caveat": "Kjell price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/kj-philips-5000-series-tradlosa-over-ear-horlurar-vit.webp",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "low",
         "history_url": null,
-        "reason": "no_match",
+        "reason": "uncertain_match",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "TCL 65T8D",
-      "shop": "NetOnNet",
-      "price_sek": 8990,
-      "was_price_sek": 11990,
-      "discount_note": "~25% off (8990 vs 11990 SEK)",
-      "url": "https://www.netonnet.se/art/tv/56-70tum/tcl-65t8d/1065143.9119/",
-      "caveat": "NetOnNet price until 2026-11-29",
+      "name": "JBL Live Beam 4 trådlösa in-ear-hörlurar Orange",
+      "shop": "Kjell & Company",
+      "price_sek": 999,
+      "was_price_sek": 2190,
+      "discount_note": "~54% off (999 vs 2190 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/horlurar-headset/tradlosa-horlurar/jbl-live-beam-4-tradlosa-in-ear-horlurar-orange-p12177",
+      "caveat": "Kjell price until 2026-12-03",
       "category": "electronics",
-      "image": "images/1TGdD9WMnL1gVRLeMAobzL2qRWqMOKDvU.jpg",
+      "image": "images/kj-jbl-live-beam-4-tradlosa-in-ear-horlurar-orange.webp",
       "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 11990,
-        "market_low_30d": 11764,
-        "pre_hike_price": 9990,
-        "pre_hike_month": "september",
-        "hike_date": "2026-09-14",
-        "sale_start": "2026-11-02",
-        "real_discount_pct": 10.0,
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
         "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=16503713#statistics",
-        "reason": null,
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16586752#statistics",
+        "reason": "no_sale_start",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "Bosch SMU2HVW06E",
-      "shop": "NetOnNet",
-      "price_sek": 5990,
-      "was_price_sek": 7990,
-      "discount_note": "~25% off (5990 vs 7990 SEK)",
-      "url": "https://www.netonnet.se/art/vitvaror/diskmaskin/diskmaskin-60-cm/bosch-smu2hvw06e/1066082.17978/",
-      "caveat": "NetOnNet price until 2026-11-29",
+      "name": "JBL Live 770NC Trådlösa hörlurar",
+      "shop": "Kjell & Company",
+      "price_sek": 790,
+      "was_price_sek": 1690,
+      "discount_note": "~53% off (790 vs 1690 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/horlurar-headset/tradlosa-horlurar/jbl-live-770nc-tradlosa-horlurar-p65485",
+      "caveat": "Kjell price until 2026-12-13",
       "category": "electronics",
-      "image": "images/1oDM9hF4NfA0CnqyvS9c2UChzwIOBLaXQ.jpg",
+      "image": "images/kj-jbl-live-770nc-tradlosa-horlurar.webp",
       "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 7990,
-        "market_low_30d": 5490,
-        "pre_hike_price": 5690,
-        "pre_hike_month": "september",
-        "hike_date": "2026-09-28",
-        "sale_start": "2026-11-02",
-        "real_discount_pct": -5.3,
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
         "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=15729304#statistics",
-        "reason": null,
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=11992082#statistics",
+        "reason": "no_sale_start",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "TCL 55T8D",
-      "shop": "NetOnNet",
-      "price_sek": 6990,
-      "was_price_sek": 8990,
-      "discount_note": "~22% off (6990 vs 8990 SEK)",
-      "url": "https://www.netonnet.se/art/tv/46-55tum/tcl-55t8d/1065140.9116/",
-      "caveat": "NetOnNet price until 2026-11-29",
+      "name": "Soundcore C50i trådlösa open ear-hörlurar Vit",
+      "shop": "Kjell & Company",
+      "price_sek": 490,
+      "was_price_sek": 990,
+      "discount_note": "~51% off (490 vs 990 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/horlurar-headset/true-wireless-horlurar/soundcore-c50i-tradlosa-open-ear-horlurar-vit-p21921",
+      "caveat": "Kjell price until 2026-11-29",
       "category": "electronics",
-      "image": "images/1VN1Nt5IBHQAnJjHWTlAuW95fYzY1Jvep.jpg",
+      "image": "images/kj-soundcore-c50i-tradlosa-open-ear-horlurar-vit.webp",
       "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 8990,
-        "market_low_30d": 8990,
-        "pre_hike_price": 7990,
-        "pre_hike_month": "september",
-        "hike_date": "2026-09-14",
-        "sale_start": "2026-11-02",
-        "real_discount_pct": 12.5,
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
         "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=16503712#statistics",
-        "reason": null,
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=14645757#statistics",
+        "reason": "no_sale_start",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "Electrolux LKR64004SW",
-      "shop": "NetOnNet",
-      "price_sek": 6990,
-      "was_price_sek": 8990,
-      "discount_note": "~22% off (6990 vs 8990 SEK)",
-      "url": "https://www.netonnet.se/art/vitvaror/spis/glaskeramikspis/electrolux-lkr64004sw/1066143.17996/",
-      "caveat": "NetOnNet price until 2026-11-29",
+      "name": "Anker Nano powerbank 30 W 10000 mAh Grön",
+      "shop": "Kjell & Company",
+      "price_sek": 390,
+      "was_price_sek": 799,
+      "discount_note": "~51% off (390 vs 799 SEK)",
+      "url": "https://www.kjell.com/se/produkter/mobilt/powerbank/anker-nano-powerbank-30-w-10000-mah-gron-p80236",
+      "caveat": "Kjell price until 2026-11-29",
       "category": "electronics",
-      "image": "images/1ibgE4tGRgC19OuAd8xd-8FTKAyAI8FYi.jpg",
+      "image": "images/kj-anker-nano-powerbank-30-w-10000-mah-gron.webp",
       "pricecheck": {
-        "status": "raised_before_sale",
-        "store_low_30d": 8990,
-        "market_low_30d": 5990,
-        "pre_hike_price": 6990,
-        "pre_hike_month": "september",
-        "hike_date": "2026-09-28",
-        "sale_start": "2026-11-02",
-        "real_discount_pct": 0.0,
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
         "confidence": "high",
-        "history_url": "https://www.prisjakt.nu/produkt.php?p=15437848#statistics",
-        "reason": null,
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13645912#statistics",
+        "reason": "no_sale_start",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Ring Pan-Tilt Indoor Camera Svart",
+      "shop": "Kjell & Company",
+      "price_sek": 399,
+      "was_price_sek": 799,
+      "discount_note": "~50% off (399 vs 799 SEK)",
+      "url": "https://www.kjell.com/se/produkter/sakerhet-overvakning/kameraovervakning/overvakningskameror/natverkskameror/ring-pan-tilt-indoor-camera-svart-p65887",
+      "caveat": "Kjell price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/kj-ring-pan-tilt-indoor-camera-svart.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13554448#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Nomadelic Loud 300 Trådlös högtalare Svart",
+      "shop": "Kjell & Company",
+      "price_sek": 199,
+      "was_price_sek": 399.9,
+      "discount_note": "~50% off (199 vs 399.9 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/hogtalare/tradlosa-bluetooth-hogtalare/nomadelic-loud-300-tradlos-hogtalare-svart-p24821",
+      "caveat": "Kjell price until 2026-12-06",
+      "category": "electronics",
+      "image": "images/kj-nomadelic-loud-300-tradlos-hogtalare-svart.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16290836#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Ring Outdoor Cam Plus Battery Retinal 2K Vit",
+      "shop": "Kjell & Company",
+      "price_sek": 599,
+      "was_price_sek": 1199,
+      "discount_note": "~50% off (599 vs 1199 SEK)",
+      "url": "https://www.kjell.com/se/produkter/sakerhet-overvakning/kameraovervakning/overvakningskameror/overvakningskameror-utomhus/ring-outdoor-cam-plus-battery-retinal-2k-vit-p66897",
+      "caveat": "Kjell price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/kj-ring-outdoor-cam-plus-battery-retinal-2k-vit.webp",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=17086068#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Nomadelic 2.1 Soundbar Loud 750",
+      "shop": "Kjell & Company",
+      "price_sek": 899,
+      "was_price_sek": 1790,
+      "discount_note": "~50% off (899 vs 1790 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/tv-tillbehor/soundbar/nomadelic-2.1-soundbar-loud-750-p24714",
+      "caveat": "Kjell price until 2026-12-06",
+      "category": "electronics",
+      "image": "images/kj-nomadelic-2-1-soundbar-loud-750.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=15513416#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Ring Battery Doorbell Plus",
+      "shop": "Kjell & Company",
+      "price_sek": 839,
+      "was_price_sek": 1690,
+      "discount_note": "~50% off (839 vs 1690 SEK)",
+      "url": "https://www.kjell.com/se/produkter/sakerhet-overvakning/dorrklockor/smarta-dorrklockor/ring-battery-doorbell-plus-p52091",
+      "caveat": "Kjell price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/kj-ring-battery-doorbell-plus.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "medium",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16620790#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "JBL SB510 Cinema 3.1 Soundbar",
+      "shop": "Kjell & Company",
+      "price_sek": 990,
+      "was_price_sek": 1990,
+      "discount_note": "~50% off (990 vs 1990 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/tv-tillbehor/soundbar/jbl-sb510-cinema-3.1-soundbar-p24597",
+      "caveat": "Kjell price until 2026-12-06",
+      "category": "electronics",
+      "image": "images/kj-jbl-sb510-cinema-3-1-soundbar.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13429859#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Nomadelic Nomadelic Solo 221 Kids trådlösa on-ear-hörlurar för barn Rosa",
+      "shop": "Kjell & Company",
+      "price_sek": 149,
+      "was_price_sek": 299.9,
+      "discount_note": "~50% off (149 vs 299.9 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/horlurar-headset/barnhorlurar/nomadelic-nomadelic-solo-221-kids-tradlosa-on-ear-horlurar-for-barn-rosa-p69903",
+      "caveat": "Kjell Club member price (free membership) until 2026-12-23; non-member 299.9 kr",
+      "category": "electronics",
+      "image": "images/kj-nomadelic-nomadelic-solo-221-kids-tradlosa-on-ear-horlurar-f.webp",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "medium",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=22904825#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Luxorparts Tak- och väggfäste för Deco M9 Plus 3-pack",
+      "shop": "Kjell & Company",
+      "price_sek": 150,
+      "was_price_sek": 299.9,
+      "discount_note": "~50% off (150 vs 299.9 SEK)",
+      "url": "https://www.kjell.com/se/produkter/natverk/mesh/luxorparts-tak-och-vaggfaste-for-deco-m9-plus-3-pack-p64836",
+      "caveat": "Kjell price until 2026-11-27",
+      "category": "electronics",
+      "image": "images/kj-luxorparts-tak-och-vaggfaste-for-deco-m9-plus-3-pack.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13431823#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Arlo Essential Doorbell 2 FHD Trådlös Dörrklocka",
+      "shop": "Kjell & Company",
+      "price_sek": 590,
+      "was_price_sek": 1190,
+      "discount_note": "~50% off (590 vs 1190 SEK)",
+      "url": "https://www.kjell.com/se/produkter/sakerhet-overvakning/dorrklockor/smarta-dorrklockor/arlo-essential-doorbell-2-fhd-tradlos-dorrklocka-p65823",
+      "caveat": "Kjell price until 2026-11-29",
+      "category": "electronics",
+      "image": "images/kj-arlo-essential-doorbell-2-fhd-tradlos-dorrklocka.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=13469641#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
@@ -3142,75 +3636,23 @@
         "hike_date": null,
         "sale_start": null,
         "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=15554598#statistics",
+        "reason": "no_sale_start",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "JBL Live 670NC Trådlösa hörlurar",
+      "name": "Soundcore Sleep A30 sovhörlurar Vit",
       "shop": "Kjell & Company",
-      "price_sek": 599,
-      "was_price_sek": 1090,
-      "discount_note": "~45% off (599 vs 1090 SEK)",
-      "url": "https://www.kjell.com/se/produkter/ljud-bild/horlurar-headset/tradlosa-horlurar/jbl-live-670nc-tradlosa-horlurar-p65420",
-      "caveat": "Kjell price until 2026-12-02",
-      "category": "electronics",
-      "image": "images/1oT9fRMf00sP_61K-0YplK_FfX9LiMJOl.webp",
-      "pricecheck": {
-        "status": "unknown",
-        "store_low_30d": null,
-        "market_low_30d": null,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": null,
-        "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Cleverio Smart fjärrströmbrytare 2300 W",
-      "shop": "Kjell & Company",
-      "price_sek": 79,
-      "was_price_sek": 139.9,
-      "discount_note": "~44% off (79 vs 139.9 SEK)",
-      "url": "https://www.kjell.com/se/produkter/smarta-hem/fjarrstrombrytare/fjarrstrombrytare-inomhus/cleverio-smart-fjarrstrombrytare-2300-w-p51701",
-      "caveat": "Kjell price until 2026-12-01",
-      "category": "electronics",
-      "image": "images/1sofBvgeg4kXE2fqWDmgsM7VImakv5oom.jpg",
-      "pricecheck": {
-        "status": "unknown",
-        "store_low_30d": null,
-        "market_low_30d": null,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": null,
-        "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Arlo Pro 6 – Trådlös övervakningskamera 3-pack",
-      "shop": "Kjell & Company",
-      "price_sek": 2690,
-      "was_price_sek": 4590,
-      "discount_note": "~41% off (2690 vs 4590 SEK)",
-      "url": "https://www.kjell.com/se/produkter/sakerhet-overvakning/kameraovervakning/overvakningskameror/natverkskameror/arlo-pro-6-tradlos-overvakningskamera-3-pack-p66626",
+      "price_sek": 1490,
+      "was_price_sek": 2990,
+      "discount_note": "~50% off (1490 vs 2990 SEK)",
+      "url": "https://www.kjell.com/se/produkter/ljud-bild/horlurar-headset/sovhorlurar/soundcore-sleep-a30-sovhorlurar-vit-p24885",
       "caveat": "Kjell price until 2026-11-29",
       "category": "electronics",
-      "image": "images/kj-arlo-pro-6-tradlos-overvakningskamera-3-pack.jpg",
+      "image": "images/kj-soundcore-sleep-a30-sovhorlurar-vit.webp",
       "pricecheck": {
         "status": "unknown",
         "store_low_30d": null,
@@ -3220,23 +3662,23 @@
         "hike_date": null,
         "sale_start": null,
         "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=23351351#statistics",
+        "reason": "no_sale_start",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "Eufy eufyCam C37 utomhuskamera med solpanel Vit",
+      "name": "Eufy eufyCam Solo E30 Trådlös övervakningskamera",
       "shop": "Kjell & Company",
-      "price_sek": 990,
-      "was_price_sek": 1490,
-      "discount_note": "~34% off (990 vs 1490 SEK)",
-      "url": "https://www.kjell.com/se/produkter/sakerhet-overvakning/kameraovervakning/overvakningskameror/overvakningskameror-utomhus/eufy-eufycam-c37-utomhuskamera-med-solpanel-vit-p60541",
-      "caveat": "Kjell Club member price (free membership) until 2026-11-29; non-member 1490 kr",
+      "price_sek": 999,
+      "was_price_sek": 1999,
+      "discount_note": "~50% off (999 vs 1999 SEK)",
+      "url": "https://www.kjell.com/se/produkter/sakerhet-overvakning/kameraovervakning/overvakningskameror/overvakningskameror-utomhus/eufy-eufycam-solo-e30-tradlos-overvakningskamera-p51949",
+      "caveat": "Kjell price until 2026-12-13",
       "category": "electronics",
-      "image": "images/1CH_L0_oHL1TFbWeBJZZ0nmMIqSOdIhEL.jpg",
+      "image": "images/kj-eufy-eufycam-solo-e30-tradlos-overvakningskamera.jpg",
       "pricecheck": {
         "status": "unknown",
         "store_low_30d": null,
@@ -3250,71 +3692,45 @@
         "history_url": null,
         "reason": "no_match",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     },
     {
-      "name": "Logitech M705 Trådlös datormus",
+      "name": "TP-Link Tapo P410M smart fjärrströmbrytare för utomhusbruk med energimätning",
       "shop": "Kjell & Company",
-      "price_sek": 339,
-      "was_price_sek": 499,
-      "discount_note": "~32% off (339 vs 499 SEK)",
-      "url": "https://www.kjell.com/se/produkter/dator/datormus/tradlosa-moss/logitech-m705-tradlos-datormus-p92058",
+      "price_sek": 199,
+      "was_price_sek": 399,
+      "discount_note": "~50% off (199 vs 399 SEK)",
+      "url": "https://www.kjell.com/se/produkter/el-verktyg/starkstrom/energimatare/tp-link-tapo-p410m-smart-fjarrstrombrytare-for-utomhusbruk-med-energimatning-p60083",
+      "caveat": "Kjell price until 2026-11-30",
+      "category": "electronics",
+      "image": "images/kj-tp-link-tapo-p410m-smart-fjarrstrombrytare-for-utomhusbruk-m.jpg",
+      "pricecheck": {
+        "status": "unknown",
+        "store_low_30d": null,
+        "market_low_30d": null,
+        "pre_hike_price": null,
+        "pre_hike_month": null,
+        "hike_date": null,
+        "sale_start": null,
+        "real_discount_pct": null,
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=15683720#statistics",
+        "reason": "no_sale_start",
+        "source": "prisjakt",
+        "checked_at": "2026-11-25T12:49:52+01:00"
+      }
+    },
+    {
+      "name": "Arlo Essential 3 2K PTZ – Trådlös övervakningskamera 2-pack",
+      "shop": "Kjell & Company",
+      "price_sek": 1189,
+      "was_price_sek": 2390,
+      "discount_note": "~50% off (1189 vs 2390 SEK)",
+      "url": "https://www.kjell.com/se/produkter/sakerhet-overvakning/kameraovervakning/overvakningskameror/natverkskameror/arlo-essential-3-2k-ptz-tradlos-overvakningskamera-2-pack-p66619",
       "caveat": "Kjell price until 2026-11-29",
-      "category": "computers",
-      "image": "images/1hT2ZseCD0-ifoDPcR0O9UrBIcdVD0TUj.webp",
-      "pricecheck": {
-        "status": "unknown",
-        "store_low_30d": null,
-        "market_low_30d": null,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": null,
-        "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Cleverio Air Purifier smart luftrenare",
-      "shop": "Kjell & Company",
-      "price_sek": 699,
-      "was_price_sek": 999,
-      "discount_note": "~30% off (699 vs 999 SEK)",
-      "url": "https://www.kjell.com/se/produkter/hem-fritid/inomhusklimat-uppvarmning/luftrenare/cleverio-air-purifier-smart-luftrenare-p47007",
-      "caveat": "Kjell Club member price (free membership) until 2026-11-25; non-member 999 kr",
-      "category": "household",
-      "image": "images/1SpllfGLaOYZss4lRCkOXp_yqKLOI2S8Y.webp",
-      "pricecheck": {
-        "status": "unknown",
-        "store_low_30d": null,
-        "market_low_30d": null,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": null,
-        "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Nedis SmartLife Babycam Full HD med mörkerseende",
-      "shop": "Kjell & Company",
-      "price_sek": 499,
-      "was_price_sek": 699,
-      "discount_note": "~29% off (499 vs 699 SEK)",
-      "url": "https://www.kjell.com/se/produkter/hem-fritid/barn-baby/babymonitor/nedis-smartlife-babycam-full-hd-med-morkerseende-p58041",
-      "caveat": "Kjell price until 2026-11-27",
       "category": "electronics",
-      "image": "images/kj-nedis-smartlife-babycam-full-hd-med-morkerseende.webp",
+      "image": "images/kj-arlo-essential-3-2k-ptz-tradlos-overvakningskamera-2-pack.jpg",
       "pricecheck": {
         "status": "unknown",
         "store_low_30d": null,
@@ -3324,52 +3740,27 @@
         "hike_date": null,
         "sale_start": null,
         "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
+        "confidence": "high",
+        "history_url": "https://www.prisjakt.nu/produkt.php?p=16722065#statistics",
+        "reason": "no_sale_start",
         "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
-      }
-    },
-    {
-      "name": "Xiaomi Electric Scooter Elite NE elsparkcykel",
-      "shop": "Kjell & Company",
-      "price_sek": 3599,
-      "was_price_sek": 4990,
-      "discount_note": "~28% off (3599 vs 4990 SEK)",
-      "url": "https://www.kjell.com/se/produkter/hem-fritid/fritid/elsparkcyklar/xiaomi-electric-scooter-elite-ne-elsparkcykel-p47285",
-      "caveat": "Kjell price until 2026-12-08",
-      "category": "electronics",
-      "image": "images/kj-xiaomi-electric-scooter-elite-ne-elsparkcykel.webp",
-      "pricecheck": {
-        "status": "unknown",
-        "store_low_30d": null,
-        "market_low_30d": null,
-        "pre_hike_price": null,
-        "pre_hike_month": null,
-        "hike_date": null,
-        "sale_start": null,
-        "real_discount_pct": null,
-        "confidence": null,
-        "history_url": null,
-        "reason": "no_match",
-        "source": "prisjakt",
-        "checked_at": "2026-11-23T12:48:55+01:00"
+        "checked_at": "2026-11-25T12:49:52+01:00"
       }
     }
   ],
   "pricecheck": {
-    "checked_at": "2026-11-23T12:48:55+01:00",
+    "checked_at": "2026-11-25T12:49:52+01:00",
     "source": "Prisjakt prishistorik",
     "rule": "lägsta pris hos butiken 30 dagar före prissänkningen (3 % tolerans)",
     "counts": {
       "ok": 53,
-      "raised_before_sale": 44,
-      "unknown": 30,
+      "raised_before_sale": 40,
+      "unknown": 46,
+      "inflated": 3,
       "suspect": 2
     },
-    "runtime_s": 373,
-    "requests": 468,
+    "runtime_s": 664,
+    "requests": 514,
     "cache_hits": 0
   }
 }
